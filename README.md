@@ -1,5 +1,5 @@
 # pfQuest (turtle)
-This is a fork addon from [pfQuest-turtle]https://github.com/xErik444x/pfQuest-turtle-es
+This is a fork addon from [pfQuest-turtle](https://github.com/shagu/pfQuest-turtle)
 
 ## Install
 *The latest version of [pfQuest](https://shagu.org/pfQuest) is required for this module to work.*
