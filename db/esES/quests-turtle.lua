@@ -1,6 +1,6 @@
 pfDB["quests"]["esES-turtle"] = {
   [172] = {
-    ["D"] = "¿Estás dispuesto a ayudarnos aquí en el orfanato?  Bendito seas, amigo; tu ayuda durante la Semana del Niño será invaluable.$B$BToma este silbato.  Sólo podrá utilizarlo durante un breve período de tiempo, normalmente no más de la Semana del Niño.  Cuando lo utilices, podrás hablar con el niño que has aceptado cuidar.  Usarlo nuevamente despedirá al niño.$B$BBPor todos los medios $N: ¡usa el silbato y conoce a tu pupilo!  Estoy seguro de que el niño estará muy ansioso por conocerte.",
+    ["D"] = "¿Estás dispuesto a ayudarnos aquí en el orfanato?  Bendito seas, amigo; tu ayuda durante la Semana del Niño será invaluable.$B$BToma este silbato.  Sólo podrá utilizarlo durante un breve período de tiempo, normalmente no más de la Semana del Niño.  Cuando lo utilices, podrás hablar con el niño que has aceptado cuidar.  Usarlo nuevamente despedirá al niño.$B$BPor todos los medios $N: ¡usa el silbato y conoce a tu pupilo!  Estoy seguro de que el niño estará muy ansioso por conocerte.",
     ["O"] = "Utilice el silbato de huérfano orco para hablar con el niño que cuidará durante la Semana del Niño.",
     ["T"] = "Children\'s Week",
   },
@@ -30,12 +30,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Durotar Scouring",
   },
   [810] = {
-    ["D"] = "Harías bien en saber lo peligrosa que puede ser esta tierra, $c. La vida salvaje aquí puede enseñarnos cosas increíbles, si somos lo suficientemente sabios como para escuchar sus lecciones.$B$BLos escórpidos son un ejemplo perfecto de supervivencia en Durotar. Si bien la tierra se ha vuelto dura y más implacable, sus caparazones endurecidos los protegen del sol brutal y de las armas mortales de los cazadores. Sería prudente asumir algo de su fuerza ya que ahora dominan el entorno.$B$BBTráeme 6 pequeños caparazones de escórpidos de los Escórpidos ruidosos, $N, y me ocuparé de tu recompensa.",
+    ["D"] = "Harías bien en saber lo peligrosa que puede ser esta tierra, $c. La vida salvaje aquí puede enseñarnos cosas increíbles, si somos lo suficientemente sabios como para escuchar sus lecciones.$B$BLos escórpidos son un ejemplo perfecto de supervivencia en Durotar. Si bien la tierra se ha vuelto dura y más implacable, sus caparazones endurecidos los protegen del sol brutal y de las armas mortales de los cazadores. Sería prudente asumir algo de su fuerza ya que ahora dominan el entorno.$B$BTráeme 6 pequeños caparazones de escórpidos de los Escórpidos ruidosos, $N, y me ocuparé de tu recompensa.",
     ["O"] = "Llévale 6 caparazones de escórpido pequeños a Kor\'ghan en la aldea Sen\'jin.",
     ["T"] = "Study to Survive",
   },
   [811] = {
-    ["D"] = "Uno de los otros rasgos de los escórpidos es su feroz lealtad. Se protegerán unos a otros bajo riesgo personal; probablemente ya hayas visto este comportamiento durante tu primera cacería. Harías bien en prestar atención a esa lección y adaptarla a ti mismo: somos más fuertes como uno; somos débiles cuando estamos divididos.$B$BBtráeme 8 caparazones de escórpidos grandes de Escórpidos blindados y te concederé otra recompensa.",
+    ["D"] = "Uno de los otros rasgos de los escórpidos es su feroz lealtad. Se protegerán unos a otros bajo riesgo personal; probablemente ya hayas visto este comportamiento durante tu primera cacería. Harías bien en prestar atención a esa lección y adaptarla a ti mismo: somos más fuertes como uno; somos débiles cuando estamos divididos.$B$Btráeme 8 caparazones de escórpidos grandes de Escórpidos blindados y te concederé otra recompensa.",
     ["O"] = "Llévale 8 caparazones de escórpido grandes a Kor\'ghan en la aldea Sen\'jin.",
     ["T"] = "Unity is Strength",
   },
@@ -65,7 +65,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Absent Minded Prospector",
   },
   [969] = {
-    ["D"] = "Ah, puedo decirlo con solo mirarte: querrás hacer un amuleto de la suerte. ¡Mau\'ari siempre lo sabe!$B$BHacia el sur. Encontrarás un cañón y gigantes hicieron hielo sólido. A veces los gigantes los llevan, pero siempre puedes recoger los fragmentos tú mismo del cañón. Estos fragmentos tienen una poderosa cualidad reflectante.$B$BBRecupera 10 fragmentos de Machacaescarcha y mi amuleto de la suerte será tuyo.",
+    ["D"] = "Ah, puedo decirlo con solo mirarte: querrás hacer un amuleto de la suerte. ¡Mau\'ari siempre lo sabe!$B$BHacia el sur. Encontrarás un cañón y gigantes hicieron hielo sólido. A veces los gigantes los llevan, pero siempre puedes recoger los fragmentos tú mismo del cañón. Estos fragmentos tienen una poderosa cualidad reflectante.$B$BRecupera 10 fragmentos de Machacaescarcha y mi amuleto de la suerte será tuyo.",
     ["O"] = "Recoge 10 fragmentos de Machacaescarcha para el médico brujo Mau\'ari en Vista Eterna.",
     ["T"] = "Luck Be With You",
   },
@@ -95,7 +95,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Missing Diplomat",
   },
   [1459] = {
-    ["D"] = "El siguiente en la lista de Leftwitch es... veamos... hmm. Oh, aquí está.$B$BBastante simple, pero bastante explícito en sus instrucciones. Necesita veneno de los scorpashi y esconderse de algún kodo. La letra pequeña dice que ambos provienen de criaturas específicas: el veneno debe provenir de cualquiera de los scorpashi y la piel debe provenir de un kodo anciano, no de los antiguos o moribundos.$B$BMages, Ya te digo, algunas de las cosas que quieren... son simplemente raras.",
+    ["D"] = "El siguiente en la lista de Leftwitch es... veamos... hmm. Oh, aquí está.$B$Bastante simple, pero bastante explícito en sus instrucciones. Necesita veneno de los scorpashi y esconderse de algún kodo. La letra pequeña dice que ambos provienen de criaturas específicas: el veneno debe provenir de cualquiera de los scorpashi y la piel debe provenir de un kodo anciano, no de los antiguos o moribundos.$B$BMages, Ya te digo, algunas de las cosas que quieren... son simplemente raras.",
     ["O"] = "Llévale 7 viales de veneno de Scorpashi y 3 pieles de kodo envejecidas a Kreldig Ungor en Desolace.",
     ["T"] = "Reagents for Reclaimers Inc.",
   },
@@ -110,7 +110,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Klockmort Spannerspan",
   },
   [1708] = {
-    ["D"] = "Quiero probar las nuevas técnicas de Furen Longbeard en mi propia armadura.  Y como ayudaste a Furen y él me ayudó, ¡eres bienvenido a la armadura después de que la haga!$B$BPara terminar la pieza, necesito un coral especial, un coral abrasador.  Crece en un solo lugar: a lo largo de la costa al sur del puerto de Menethil en los Humedales.$B$BBTráeme suficiente coral abrasador y me pondré manos a la obra en la armadura.  Y date prisa, $N.  ¡Tengo tantas ganas de empezar que se me retuercen los dedos de los pies!",
+    ["D"] = "Quiero probar las nuevas técnicas de Furen Longbeard en mi propia armadura.  Y como ayudaste a Furen y él me ayudó, ¡eres bienvenido a la armadura después de que la haga!$B$BPara terminar la pieza, necesito un coral especial, un coral abrasador.  Crece en un solo lugar: a lo largo de la costa al sur del puerto de Menethil en los Humedales.$B$BTráeme suficiente coral abrasador y me pondré manos a la obra en la armadura.  Y date prisa, $N.  ¡Tengo tantas ganas de empezar que se me retuercen los dedos de los pies!",
     ["O"] = "Lleva 20 cargas de coral abrasador a Klockmort Spannerspan en las instalaciones de recuperación de Gnomeregan.",
     ["T"] = "Iron Coral",
   },
@@ -170,7 +170,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Have Hoof Will Travel",
   },
   [3580] = {
-    ["D"] = "¡Me siento mucho mejor ahora! ¡Tan vigorizado y emocionado! ¡Oh, esto es maravilloso!$B$BGracias, $N, muchas gracias.$B$BBademás de la fuerza de voluntad y los cascos muy duraderos, necesitarás una Bendición del Viento para ayudarte a correr tan rápido como todos ¡De nosotros Pezuña Rápida lo somos! Conozco sólo a un tauren que puede guiarte en esto.$B$BSu nombre es Jorn Skyseer. La última vez que hablé con él fue en el Campamento Taurajo en Southern Barrens. Ahh, el Camino Dorado, tan atractivo...",
+    ["D"] = "¡Me siento mucho mejor ahora! ¡Tan vigorizado y emocionado! ¡Oh, esto es maravilloso!$B$BGracias, $N, muchas gracias.$B$Bademás de la fuerza de voluntad y los cascos muy duraderos, necesitarás una Bendición del Viento para ayudarte a correr tan rápido como todos ¡De nosotros Pezuña Rápida lo somos! Conozco sólo a un tauren que puede guiarte en esto.$B$BSu nombre es Jorn Skyseer. La última vez que hablé con él fue en el Campamento Taurajo en Southern Barrens. Ahh, el Camino Dorado, tan atractivo...",
     ["O"] = "Habla con Jorn Skyseer en el Campamento Taurajo.",
     ["T"] = "Plains To Run, Sky To See",
   },
@@ -215,12 +215,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ursius of the Shardtooth",
   },
   [5055] = {
-    ["D"] = "Rápido e inteligente, Brumeran se desliza silenciosamente por el paisaje nevado del sur de Winterspring. Pero no dejes que su elegante apariencia te convenza de que es inofensiva. Todos los que se cruzan con ella pagan considerablemente, y a menudo con sus propias vidas.$B$BBusca a Brumeran del viento helado entre las quimeras. Derrótala y luego regresa a mí.",
+    ["D"] = "Rápido e inteligente, Brumeran se desliza silenciosamente por el paisaje nevado del sur de Winterspring. Pero no dejes que su elegante apariencia te convenza de que es inofensiva. Todos los que se cruzan con ella pagan considerablemente, y a menudo con sus propias vidas.$B$Busca a Brumeran del viento helado entre las quimeras. Derrótala y luego regresa a mí.",
     ["O"] = "Storm Shadowhoof en Everlook en Winterspring quiere que mates a Brumeran.",
     ["T"] = "Brumeran of the Chillwind",
   },
   [5056] = {
-    ["D"] = "En el norte de Winterspring, los grandes felinos se reúnen alrededor de un gran hito llamado Frostsaber Rock. El líder de estos gatos es conocido con el nombre de Shy-Rotam. Derrotar a la matriarca de los sables de hielo te otorgaría mucho respeto ante los ojos de tus compañeros $r.$B$BVuelve a las duras tierras salvajes y, una vez allí, recolecta carne sagrada de los sables de hielo. Encuentra la piedra de Shy-Rotam y colócala allí. Colocar la carne de sus parientes ante ella convocará a Shy-Rotam, enojado.$B$BBPrepárate para su furia y derrótala.",
+    ["D"] = "En el norte de Winterspring, los grandes felinos se reúnen alrededor de un gran hito llamado Frostsaber Rock. El líder de estos gatos es conocido con el nombre de Shy-Rotam. Derrotar a la matriarca de los sables de hielo te otorgaría mucho respeto ante los ojos de tus compañeros $r.$B$BVuelve a las duras tierras salvajes y, una vez allí, recolecta carne sagrada de los sables de hielo. Encuentra la piedra de Shy-Rotam y colócala allí. Colocar la carne de sus parientes ante ella convocará a Shy-Rotam, enojado.$B$BPrepárate para su furia y derrótala.",
     ["O"] = "Storm Shadowhoof en Everlook en Winterspring quiere que derrotes a Shy-Rotam.",
     ["T"] = "Shy-Rotam",
   },
@@ -235,7 +235,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Breastplates of the Chromatic Flight",
   },
   [6086] = {
-    ["D"] = "$N, ahora tienes el poder de domesticar a una mascota, pero también debes adquirir las habilidades para entrenarla.$B$BViaja a Ironforge y encuentra el Salón de Armas. Allí deberás hablar con una de nuestras entrenadoras de animales más veneradas, Belia Thundergranite. Ella te dará el poder de entrenar a tu nueva mascota, así que ¡adelante! $Glad:lass;!$B$BBelia es una persona amigable; No deberías tener problemas para obtener su aprobación. Buena suerte, $N.",
+    ["D"] = "$N, ahora tienes el poder de domesticar a una mascota, pero también debes adquirir las habilidades para entrenarla.$B$BViaja a Ironforge y encuentra el Salón de Armas. Allí deberás hablar con una de nuestras entrenadoras de animales más veneradas, Belia Thundergranite. Ella te dará el poder de entrenar a tu nueva mascota, así que ¡adelante! $Glad:lass;!$B$Belia es una persona amigable; No deberías tener problemas para obtener su aprobación. Buena suerte, $N.",
     ["O"] = "Habla con Belia Granito Trueno en Forjaz.",
     ["T"] = "Training the Beast",
   },
@@ -260,7 +260,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Avenge My Village",
   },
   [6603] = {
-    ["D"] = "¡Hay problemas en Cuna del Invierno!$B$BBueno, claro, paso algún tiempo en la naturaleza y sé acerca de estas cosas... Siempre estoy muy orgulloso de decirlo. Considero doradas las horas que paso en el monte. Ayudarte a cultivar reflejos rápidos, una cabeza fría y un buen ojo...$B$BSe necesita criterio, inteligencia y madurez para apreciar la naturaleza como lo hago yo.$B$BAhora, ¿de qué estaba hablando?$B $BAh sí, problemas. Vea a Donova Snowden en las aguas termales y ella podrá contarle más.$B$B",
+    ["D"] = "¡Hay problemas en Cuna del Invierno!$B$Bueno, claro, paso algún tiempo en la naturaleza y sé acerca de estas cosas... Siempre estoy muy orgulloso de decirlo. Considero doradas las horas que paso en el monte. Ayudarte a cultivar reflejos rápidos, una cabeza fría y un buen ojo...$B$BSe necesita criterio, inteligencia y madurez para apreciar la naturaleza como lo hago yo.$B$BAhora, ¿de qué estaba hablando?$B $BAh sí, problemas. Vea a Donova Snowden en las aguas termales y ella podrá contarle más.$B$B",
     ["O"] = "Encuentra a Donova Snowden cerca de las aguas termales en Winterspring.",
     ["T"] = "Trouble in Winterspring!",
   },
@@ -350,7 +350,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Mark of Honor",
   },
   [8066] = {
-    ["D"] = "Un depredador sabe cómo acechar a su presa, pero uno exitoso sabe cómo atacarla una vez que ha cerrado filas.  Debes dominar ambos para tener alguna posibilidad de éxito en Zul\'Gurub... y cualquier posibilidad de ser como los depredadores Zandalar.$B$BBTráeme partes selectas de los Paragones de Poder desde dentro de Zul\'Gurub.  Mi recompensa será el poder que proporcionan las baratijas, mientras que la tuya será el cinturón del depredador Zandalar, un equipo que bien vale la pena intercambiar.",
+    ["D"] = "Un depredador sabe cómo acechar a su presa, pero uno exitoso sabe cómo atacarla una vez que ha cerrado filas.  Debes dominar ambos para tener alguna posibilidad de éxito en Zul\'Gurub... y cualquier posibilidad de ser como los depredadores Zandalar.$B$BTráeme partes selectas de los Paragones de Poder desde dentro de Zul\'Gurub.  Mi recompensa será el poder que proporcionan las baratijas, mientras que la tuya será el cinturón del depredador Zandalar, un equipo que bien vale la pena intercambiar.",
     ["O"] = "Lleva los siguientes modelos de poder de Zul\'Gurub a Falthir el Ciego: un chal hakkari primigenio.  También debes tener una reputación igual o superior a Honorable con la Tribu Zandalar.$B$BFalthir el Ciego se encuentra en la Isla Yojamba, Vega de Tuercespina.",
     ["T"] = "Paragons of Power: The Predator\'s Belt",
   },
@@ -380,7 +380,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Paragons of Power: The Confessor\'s Mantle",
   },
   [8072] = {
-    ["D"] = "Uno de los locos legendarios de Zandalar fue Khar\'vaxal el Agrietado.  La leyenda dice que cuando se enfrentó a los enemigos de la tribu por primera vez, Kar\'xavan usó su manto específicamente tejido con \"el tejido de la locura\".  Su forma estaba envuelta no sólo por el manto, sino también por la velocidad cegadora de sus dagas gemelas.  Los locos de hoy aprecian su manto como un signo de su lugar en la tribu.$B$BBTráeme los modelos de poder que busco, y ese manto será tuyo para tejer locura con tus propios enemigos.",
+    ["D"] = "Uno de los locos legendarios de Zandalar fue Khar\'vaxal el Agrietado.  La leyenda dice que cuando se enfrentó a los enemigos de la tribu por primera vez, Kar\'xavan usó su manto específicamente tejido con \"el tejido de la locura\".  Su forma estaba envuelta no sólo por el manto, sino también por la velocidad cegadora de sus dagas gemelas.  Los locos de hoy aprecian su manto como un signo de su lugar en la tribu.$B$BTráeme los modelos de poder que busco, y ese manto será tuyo para tejer locura con tus propios enemigos.",
     ["O"] = "Llévale a Falthir el Ciego una faja hakkari primigenia.  También debes tener una reputación igual o superior a Honorable con la Tribu Zandalar.$B$BFalthir el Ciego se encuentra en la Isla Yojamba, Vega de Tuercespina.",
     ["T"] = "Paragons of Power: The Madcap\'s Mantle",
   },
@@ -390,12 +390,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Paragons of Power: The Madcap\'s Tunic",
   },
   [8074] = {
-    ["D"] = "Los augures conocen el encanto de los elementos, amigo.  Lo utilizan como medio para guiar a la tribu hacia la gloria.  En los días oscuros después de que el Imperio Gurubashi se desintegrara, nuestros augurios nos llevaron a nuestro refugio seguro en los Mares del Sur.  También nos han llevado de regreso aquí al Valle, de regreso al corazón del mal que se está gestando en Zul\'Gurub.$B$BBTráeme una ofrenda de los Paragones de Poder desde el interior de Zul\'Gurub y Demuéstranos tu valía.  Hazlo y te daré un cinturón que usan nuestros augures, ¡uno con un poderoso encanto en su interior!",
+    ["D"] = "Los augures conocen el encanto de los elementos, amigo.  Lo utilizan como medio para guiar a la tribu hacia la gloria.  En los días oscuros después de que el Imperio Gurubashi se desintegrara, nuestros augurios nos llevaron a nuestro refugio seguro en los Mares del Sur.  También nos han llevado de regreso aquí al Valle, de regreso al corazón del mal que se está gestando en Zul\'Gurub.$B$BTráeme una ofrenda de los Paragones de Poder desde el interior de Zul\'Gurub y Demuéstranos tu valía.  Hazlo y te daré un cinturón que usan nuestros augures, ¡uno con un poderoso encanto en su interior!",
     ["O"] = "Llévale a Maywiki de Zuldazar una faja Hakkari primigenia.  También debes tener una reputación igual o superior a Honorable con la Tribu Zandalar.$B$BMaywiki de Zuldazar se encuentra en la Isla Yojamba, Vega de Tuercespina.",
     ["T"] = "Paragons of Power: The Augur\'s Belt",
   },
   [8075] = {
-    ["D"] = "Todos los augures de Zandalar llevan una pieza distintiva en el pecho llamada cota de malla.  Está equipado con las mejores sedas y telas, entrelazadas con fuertes cadenas.  Es un símbolo no sólo de su divinidad, sino también de su autoridad, amigo.  Nunca es prudente cruzarse con alguien cuya vida está dedicada a hablar con los espíritus...$B$BBTráeme una ofrenda de los Paragones de Poder desde el interior de Zul\'Gurub y demuestra tu valía ante nosotros.  ¡Hazlo y te daré una de las mejores cotas que nuestros augures jamás desearían usar!",
+    ["D"] = "Todos los augures de Zandalar llevan una pieza distintiva en el pecho llamada cota de malla.  Está equipado con las mejores sedas y telas, entrelazadas con fuertes cadenas.  Es un símbolo no sólo de su divinidad, sino también de su autoridad, amigo.  Nunca es prudente cruzarse con alguien cuya vida está dedicada a hablar con los espíritus...$B$BTráeme una ofrenda de los Paragones de Poder desde el interior de Zul\'Gurub y demuestra tu valía ante nosotros.  ¡Hazlo y te daré una de las mejores cotas que nuestros augures jamás desearían usar!",
     ["O"] = "Lleva a Maywiki de Zuldazar un tabardo hakkari primigenio.  También debes tener una reputación igual o superior a Venerado en la tribu Zandalar.$B$BMaywiki de Zuldazar se encuentra en la isla Yojamba, Vega de Tuercespina.",
     ["T"] = "Paragons of Power: The Augur\'s Hauberk",
   },
@@ -560,7 +560,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Mortal Champions",
   },
   [8728] = {
-    ["D"] = "Bueno, eso tomó un poco más de tiempo de lo esperado. Ahora déjame ver qué dice este libro de contabilidad.$B$B<Narain lee el libro de contabilidad en silencio, murmurando periódicamente en voz baja.>$B$BLa buena noticia es que estoy 99% seguro de que soy capaz de crear una boya de arcanita que funcionará según sus especificaciones. Esto, por supuesto, depende totalmente de las malas noticias.$B$BLa mala noticia es que voy a necesitar una gran cantidad de arcanita, mineral de elementium y piedras preciosas raras.$B$BBTráeme lo que necesito y elaborará la boya.",
+    ["D"] = "Bueno, eso tomó un poco más de tiempo de lo esperado. Ahora déjame ver qué dice este libro de contabilidad.$B$B<Narain lee el libro de contabilidad en silencio, murmurando periódicamente en voz baja.>$B$BLa buena noticia es que estoy 99% seguro de que soy capaz de crear una boya de arcanita que funcionará según sus especificaciones. Esto, por supuesto, depende totalmente de las malas noticias.$B$BLa mala noticia es que voy a necesitar una gran cantidad de arcanita, mineral de elementium y piedras preciosas raras.$B$BTráeme lo que necesito y elaborará la boya.",
     ["O"] = "Narain Soothfancy en Tanaris quiere que le lleves 20 barras de arcanita, 10 minerales de elementium, 10 diamantes de Azeroth y 10 zafiros azules.",
     ["T"] = "The Good News and The Bad News",
   },
@@ -600,7 +600,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Festival of Fire",
   },
   [9386] = {
-    ["D"] = "Uno ansioso, ¿no? Si estás dispuesto a adentrarte en las profundidades una vez más, con gusto te recompensaré.$B$BBusca las hogueras que arden en Stratholme, Scholomance, Dire Maul y los pasillos de Blackrock Spire; Espero tu regreso, $N.",
+    ["D"] = "Uno ansioso, ¿no? Si estás dispuesto a adentrarte en las profundidades una vez más, con gusto te recompensaré.$B$Busca las hogueras que arden en Stratholme, Scholomance, Dire Maul y los pasillos de Blackrock Spire; Espero tu regreso, $N.",
     ["O"] = "Encuentra y toca las hogueras ubicadas en Blackrock Spire, Dire Maul, Scholomance y Stratholme, luego habla con el Festival Flamekeeper.",
     ["T"] = "A Light in Dark Places",
   },
@@ -610,7 +610,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Orb of Pure Light",
   },
   [20001] = {
-    ["D"] = "No se parece a nada que haya visto antes, $N.$B. Es como si la esencia misma de la Luz surgiera de este orbe, algo extraño que el Portador de Cenizas dejó atrás cuando fue liberado de las garras del Scourge.$BI realmente no puede dedicar tiempo a ayudarle con esto. Incluso si la Ciudadela del Terror cayera, aún nos queda un largo camino por recorrer. Si bien el Archi Exánime ha sido derrotado, todavía tenemos que encontrar su filacteria.$BEl Argent Dawn es un desastre, las bajas fueron muchas y el resto de nosotros estamos más que cansados. Si bien no encontrarás ayuda aquí, sé adónde enviarte y estoy seguro de que él podrá ayudarte.$BBusca a Tirion Fordring, aquí, en las Tierras de la Peste del Este, al Oeste.$BILo siento mucho y te deseo suerte. .",
+    ["D"] = "No se parece a nada que haya visto antes, $N.$B. Es como si la esencia misma de la Luz surgiera de este orbe, algo extraño que el Portador de Cenizas dejó atrás cuando fue liberado de las garras del Scourge.$BI realmente no puede dedicar tiempo a ayudarle con esto. Incluso si la Ciudadela del Terror cayera, aún nos queda un largo camino por recorrer. Si bien el Archi Exánime ha sido derrotado, todavía tenemos que encontrar su filacteria.$BEl Argent Dawn es un desastre, las bajas fueron muchas y el resto de nosotros estamos más que cansados. Si bien no encontrarás ayuda aquí, sé adónde enviarte y estoy seguro de que él podrá ayudarte.$Busca a Tirion Fordring, aquí, en las Tierras de la Peste del Este, al Oeste.$BILo siento mucho y te deseo suerte. .",
     ["O"] = "Encuentra a Tirion Vadín en las Tierras de la Peste del Este.",
     ["T"] = "Seek Help Elsewhere",
   },
@@ -620,7 +620,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "To Wake The Ashbringer",
   },
   [20003] = {
-    ["D"] = "Puedo sentirlo $N.$BEl espíritu de Alexandros y su sed de justicia. Estas tierras están demasiado corruptas para que podamos comunicarnos con él, si alguna vez queremos llegar a él necesitamos un lugar fuerte en la Luz. $BBir por la guía de la Luz, siento que debemos viajar a la tumba de Uther. $BCompletaste todas las tareas que te quedaban y nos vemos allí. Mi único deseo es que este fragmento de su espíritu esté dispuesto a comunicarse y cooperar con nosotros.$BSolo el tiempo lo dirá.$B¡A la tumba de Uther!",
+    ["D"] = "Puedo sentirlo $N.$BEl espíritu de Alexandros y su sed de justicia. Estas tierras están demasiado corruptas para que podamos comunicarnos con él, si alguna vez queremos llegar a él necesitamos un lugar fuerte en la Luz. $Bir por la guía de la Luz, siento que debemos viajar a la tumba de Uther. $BCompletaste todas las tareas que te quedaban y nos vemos allí. Mi único deseo es que este fragmento de su espíritu esté dispuesto a comunicarse y cooperar con nosotros.$BSolo el tiempo lo dirá.$B¡A la tumba de Uther!",
     ["O"] = "Reúnete con Tirion Vadín en la Tumba de Uther, Tierras de la Peste del Oeste.",
     ["T"] = "Spirit of the Ashbringer",
   },
@@ -630,7 +630,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "An Act of Humility",
   },
   [20005] = {
-    ["D"] = "Después de dejar atrás mi caparazón mortal, la Luz me ha mostrado muchas cosas diferentes.$BMi vida, mi misión, mi futuro.$BTodo lo que deseo ahora es poner fin a la Cruzada Escarlata.$BBridgette Abbendis se ha retirado al Monasterio Escarlata. Ordenó el reclutamiento de más hombres e ideó un nuevo brebaje que acabaría instantáneamente con los no-muertos.$BParece que sus planes no fueron efectivos desde el día en que decidió esconderse en sus habitaciones para meditar. La Luz tiene sus propios caminos, ya ves, misteriosos para nosotros. Ella debía albergar más poder para un propósito que no es más que una tontería. Al este de Tyr\'s Hand, la Cruzada Escarlata se prepara para un viaje al norte, esperando que su líder regrese para poder comenzar.$BPero contra sus propias probabilidades, un poder oscuro se infiltró en el Monasterio durante su meditación y ha atormentado para siempre a los ya fanáticos. mentes.$BYa no pueden ver ninguna diferencia entre los vivos y los no-muertos. Su uso de la magia de las sombras proviene de un poder diferente, uno que podría igualar a la Luz misma. $ B Es hora de decidir si estás listo para demostrar tu propio valor. $ B Naxxramas era una amenaza, pero los poderes en juego aquí muy bien puede superarlo. ¿Estás listo $N?",
+    ["D"] = "Después de dejar atrás mi caparazón mortal, la Luz me ha mostrado muchas cosas diferentes.$BMi vida, mi misión, mi futuro.$BTodo lo que deseo ahora es poner fin a la Cruzada Escarlata.$Bridgette Abbendis se ha retirado al Monasterio Escarlata. Ordenó el reclutamiento de más hombres e ideó un nuevo brebaje que acabaría instantáneamente con los no-muertos.$BParece que sus planes no fueron efectivos desde el día en que decidió esconderse en sus habitaciones para meditar. La Luz tiene sus propios caminos, ya ves, misteriosos para nosotros. Ella debía albergar más poder para un propósito que no es más que una tontería. Al este de Tyr\'s Hand, la Cruzada Escarlata se prepara para un viaje al norte, esperando que su líder regrese para poder comenzar.$BPero contra sus propias probabilidades, un poder oscuro se infiltró en el Monasterio durante su meditación y ha atormentado para siempre a los ya fanáticos. mentes.$BYa no pueden ver ninguna diferencia entre los vivos y los no-muertos. Su uso de la magia de las sombras proviene de un poder diferente, uno que podría igualar a la Luz misma. $ B Es hora de decidir si estás listo para demostrar tu propio valor. $ B Naxxramas era una amenaza, pero los poderes en juego aquí muy bien puede superarlo. ¿Estás listo $N?",
     ["O"] = "Habla con el espíritu de Alexandros Mograine.",
     ["T"] = "The Foul Stench of the Scarlet Crusade",
   },
@@ -640,7 +640,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Goblin Brainwashing Device",
   },
   [39001] = {
-    ["D"] = "¡Este senador de moda de allí no engañará a nadie! ¡Parte de la Liga de Exploradores, seguro! ¡Bah! ¡Qué fanfarronada!$B$BTe digo una cosa: ¡nunca podrás llamarte Explorador a menos que vayas y revises cada rincón por ti mismo!$B$BOPor supuesto, él nunca fue más allá de esta cantera aquí. Pero veo que no tendré que convencerte para que husmees un poco y descubras las cosas por ti mismo, ¿eh? $B$BBien. Me gustaría que me dijeras qué encontrarás en esa cueva con todos esos troggs.$B$BDeben haber venido de alguna parte, ¿verdad?",
+    ["D"] = "¡Este senador de moda de allí no engañará a nadie! ¡Parte de la Liga de Exploradores, seguro! ¡Bah! ¡Qué fanfarronada!$B$BTe digo una cosa: ¡nunca podrás llamarte Explorador a menos que vayas y revises cada rincón por ti mismo!$B$BOPor supuesto, él nunca fue más allá de esta cantera aquí. Pero veo que no tendré que convencerte para que husmees un poco y descubras las cosas por ti mismo, ¿eh? $B$Bien. Me gustaría que me dijeras qué encontrarás en esa cueva con todos esos troggs.$B$BDeben haber venido de alguna parte, ¿verdad?",
     ["O"] = "Explora la cueva de la Cantera Gol\'bolar.",
     ["T"] = "Curiosity Leads Us Forward",
   },
@@ -975,7 +975,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "An Azure Scale for Gnomeregan!",
   },
   [40063] = {
-    ["D"] = "¡Hola! Es bueno tener sangre nueva, especialmente con todo lo que ha estado sucediendo últimamente. Se siente como si cada proyecto que hemos tenido hubiera sido arruinado, ya sea por alguna fuerza externa que se metió con nosotros o, bueno, ¡algo se rompió! $B$BIEstoy a cargo de los suministros por aquí. , y los múrlocs se llevaron un montón de Sprugbolts hace unas semanas. Quiero que me los devuelvas. Puedes encontrar esos astutos múrlocs en las aguas que nos rodean.$B$BBTráeme 5 Sprugbolts. ¡Espero que te guste nadar!",
+    ["D"] = "¡Hola! Es bueno tener sangre nueva, especialmente con todo lo que ha estado sucediendo últimamente. Se siente como si cada proyecto que hemos tenido hubiera sido arruinado, ya sea por alguna fuerza externa que se metió con nosotros o, bueno, ¡algo se rompió! $B$BIEstoy a cargo de los suministros por aquí. , y los múrlocs se llevaron un montón de Sprugbolts hace unas semanas. Quiero que me los devuelvas. Puedes encontrar esos astutos múrlocs en las aguas que nos rodean.$B$BTráeme 5 Sprugbolts. ¡Espero que te guste nadar!",
     ["O"] = "Llévale 5 Sprugbolts a Jubie Gadgetspring en Flaxwhisker Front.",
     ["T"] = "In Need of Sprugbolts",
   },
@@ -1150,12 +1150,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Attack from the Inside",
   },
   [40100] = {
-    ["D"] = "¡Ahí lo tienes, $N! Sé que tomó bastante tiempo, pero finalmente tenemos nueva información sobre las placas perdidas de Uldum.$B$BBueno, cuando digo que “tenemos” algo, me refiero a que encontramos a alguien que podría conseguirlo para nosotros. . Ella es una contrabandista llamada Vess, al menos creo que así es como se llama a sí misma estos días. De todos modos, he hecho arreglos para que te encuentres con ella en la posada Booty Bay.$B$BOUna vez que llegues allí, asegúrate de estar bien con ella, ya que dudo que tengamos otra oportunidad como esta.",
+    ["D"] = "¡Ahí lo tienes, $N! Sé que tomó bastante tiempo, pero finalmente tenemos nueva información sobre las placas perdidas de Uldum.$B$Bueno, cuando digo que “tenemos” algo, me refiero a que encontramos a alguien que podría conseguirlo para nosotros. . Ella es una contrabandista llamada Vess, al menos creo que así es como se llama a sí misma estos días. De todos modos, he hecho arreglos para que te encuentres con ella en la posada Booty Bay.$B$BOUna vez que llegues allí, asegúrate de estar bien con ella, ya que dudo que tengamos otra oportunidad como esta.",
     ["O"] = "El gran explorador Magellas quiere que localices a su contacto Vess en Booty Bay Inn.",
     ["T"] = "Unusual Partnership",
   },
   [40101] = {
-    ["D"] = "Este es el trato, cariño. Érase una vez, no hace mucho, un pirata no tan inteligente llamado Bannor pensó que podía traicionarme y salirse con la suya.$B$BBueno, verás, nadie me traiciona. Entonces, a cambio de que encuentre la ubicación de tus preciosas placas, necesito que termines con su miserable vida y que tengas la amabilidad de recuperar mi relicario de su posesión. $B$BÉl tiene un campamento en una isla al este de aquí, así que eso es lo más Probablemente dónde lo encontrarás. Y no te preocupes, tendré lo que buscas cuando regreses. Entonces, ¿tenemos un trato?",
+    ["D"] = "Este es el trato, cariño. Érase una vez, no hace mucho, un pirata no tan inteligente llamado Bannor pensó que podía traicionarme y salirse con la suya.$B$Bueno, verás, nadie me traiciona. Entonces, a cambio de que encuentre la ubicación de tus preciosas placas, necesito que termines con su miserable vida y que tengas la amabilidad de recuperar mi relicario de su posesión. $B$BÉl tiene un campamento en una isla al este de aquí, así que eso es lo más Probablemente dónde lo encontrarás. Y no te preocupes, tendré lo que buscas cuando regreses. Entonces, ¿tenemos un trato?",
     ["O"] = "Busca la isla al este de Booty Bay y recupera el relicario de Vess del pirata Bannor.",
     ["T"] = "Original Owner",
   },
@@ -1200,7 +1200,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Scars of the Past",
   },
   [40110] = {
-    ["D"] = "Este tótem me ayudará a entrar en un estado de trance más profundo y me permitirá comunicarme con los espíritus de antaño. Con su ayuda, podríamos localizar los platos perdidos.$B$B<Logrash comienza su ritual y sus ojos se ponen pálidos.>$B$BBah, olvidé lo agotador que es este ritual. Las placas que buscas son inmensamente poderosas, $N. Muéstrale este mensaje al Buscador de la Verdad y él entenderá adónde enviarte a continuación. Pero ojo, parece que no somos los únicos que buscamos las placas. Alguien (o algo) oscuro también está tras el rastro.",
+    ["D"] = "Este tótem me ayudará a entrar en un estado de trance más profundo y me permitirá comunicarme con los espíritus de antaño. Con su ayuda, podríamos localizar los platos perdidos.$B$B<Logrash comienza su ritual y sus ojos se ponen pálidos.>$B$Bah, olvidé lo agotador que es este ritual. Las placas que buscas son inmensamente poderosas, $N. Muéstrale este mensaje al Buscador de la Verdad y él entenderá adónde enviarte a continuación. Pero ojo, parece que no somos los únicos que buscamos las placas. Alguien (o algo) oscuro también está tras el rastro.",
     ["O"] = "Logrash quiere que viajes a Cima del Trueno y le lleves la piel de jabalí con inscripciones a Sage Truth Seeker.",
     ["T"] = "Unseen Enemy",
   },
@@ -1490,7 +1490,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Cannon\'s Misfortune",
   },
   [40175] = {
-    ["D"] = "Puede que no tenga la mayor cantidad de oro encima, pero tengo una fortuna esperándome. Hice una apuesta con este duende, llamado Nagzel, un pequeño astuto. Verá, un día estábamos jugando a las cartas y él me estaba contando sobre sus planes de unirse a Venture Co. y trabajar en el campamento base junto al lago Nazferiti. Por primera vez en mi vida, realmente estaba ganando, y él me ofreció este gran trozo de anillo.$B$BAhora, el anillo en sí me importaba poco, no era más que una vieja tuerca de hierro barata. pero tenía este GRAN jade pegado encima. ¡Estoy hablando del tamaño de mi pulgar! $B$BBlas apuestas son más que simples juegos, son una forma de vida, y este hombre tomó el anillo cuando perdió y desapareció, para no ser visto nunca más. Ve a buscar a este punk y consigue esa piedra verde, ¡es legítimamente mía!",
+    ["D"] = "Puede que no tenga la mayor cantidad de oro encima, pero tengo una fortuna esperándome. Hice una apuesta con este duende, llamado Nagzel, un pequeño astuto. Verá, un día estábamos jugando a las cartas y él me estaba contando sobre sus planes de unirse a Venture Co. y trabajar en el campamento base junto al lago Nazferiti. Por primera vez en mi vida, realmente estaba ganando, y él me ofreció este gran trozo de anillo.$B$BAhora, el anillo en sí me importaba poco, no era más que una vieja tuerca de hierro barata. pero tenía este GRAN jade pegado encima. ¡Estoy hablando del tamaño de mi pulgar! $B$Blas apuestas son más que simples juegos, son una forma de vida, y este hombre tomó el anillo cuando perdió y desapareció, para no ser visto nunca más. Ve a buscar a este punk y consigue esa piedra verde, ¡es legítimamente mía!",
     ["O"] = "Devuélvele el jade \"legítimo\" a Jacob el Sucio.",
     ["T"] = "The Bet",
   },
@@ -1630,7 +1630,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Tesala\'s Word",
   },
   [40203] = {
-    ["D"] = "Me temo que no hay más remedio que destruir el ent para que no cause daño a nuestra gente o a las criaturas de Teldrassil. A partir de la información proporcionada por Tasala, podemos asumir con seguridad que estará patrullando las orillas orientales del lago Wellspring.$B$BBuscar al Treant distorsionado, darle un final misericordioso y traer una muestra de sus raíces para poder mejorar. comprender qué lo poseía. Tenga cuidado; No es probable que un protector se quede sin luchar.$B$BVe rápido ahora. Ese ent puede contener respuestas a lo que se esconde en el corazón del malestar de la naturaleza aquí en Teldrassil.",
+    ["D"] = "Me temo que no hay más remedio que destruir el ent para que no cause daño a nuestra gente o a las criaturas de Teldrassil. A partir de la información proporcionada por Tasala, podemos asumir con seguridad que estará patrullando las orillas orientales del lago Wellspring.$B$Buscar al Treant distorsionado, darle un final misericordioso y traer una muestra de sus raíces para poder mejorar. comprender qué lo poseía. Tenga cuidado; No es probable que un protector se quede sin luchar.$B$BVe rápido ahora. Ese ent puede contener respuestas a lo que se esconde en el corazón del malestar de la naturaleza aquí en Teldrassil.",
     ["O"] = "Destruye al ent distorsionado y lleva sus raíces marchitas a Malos Lanza Lunar en Teldrassil.",
     ["T"] = "Rooting Out Corruption",
   },
@@ -1715,7 +1715,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Batskin Letter",
   },
   [40221] = {
-    ["D"] = "Los relatos de vuestras victorias contra el flagelo levantan el ánimo de los oprimidos y dan esperanza de un mañana mejor.$B$BPero a pesar de todos vuestros esfuerzos, nuestros enemigos aún se arrastran en la oscuridad y arrojan un manto sobre la tierra. La larga noche aún no ha terminado.$B$B¡No debemos ceder!$B$BPor la Luz, debemos seguir adelante y llevar salvación a aquellos que el Azote buscaría dañar. Demuestra que tu temple sigue siendo tan afilado como el acero.$B$BBTráeme una ficha de valor del Alba Argenta y, a cambio, te concederé una bendición que te ayudará en tus batallas contra los no-muertos.",
+    ["D"] = "Los relatos de vuestras victorias contra el flagelo levantan el ánimo de los oprimidos y dan esperanza de un mañana mejor.$B$BPero a pesar de todos vuestros esfuerzos, nuestros enemigos aún se arrastran en la oscuridad y arrojan un manto sobre la tierra. La larga noche aún no ha terminado.$B$B¡No debemos ceder!$B$BPor la Luz, debemos seguir adelante y llevar salvación a aquellos que el Azote buscaría dañar. Demuestra que tu temple sigue siendo tan afilado como el acero.$B$BTráeme una ficha de valor del Alba Argenta y, a cambio, te concederé una bendición que te ayudará en tus batallas contra los no-muertos.",
     ["O"] = "Llévale 1 ficha de valor del Alba Argenta a Miranda Breechlock en Light\'s Hope Chape.",
     ["T"] = "The Long Night Is Not Over",
   },
@@ -1795,7 +1795,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Secrets of Darkforging",
   },
   [40237] = {
-    ["D"] = "Lo que estás tratando aquí es bastante interesante, este libro parece mencionar muchos patrones, todos relacionados con Darkforging, de los cuales obtendrás muy poco uso. Las armaduras y las armas que usan los no-muertos están profundamente entrelazadas con la magia que mantiene en pie a sus secuaces.$B$BSi deseas mi ayuda, yo también desearía la tuya. Puedo descubrir lo que dice este texto y señalarte y Wilhelm en la dirección correcta, pero esto requeriría un favor.$B$BViaja a Scholomance y aventúrate en lo más profundo. En el interior estoy buscando un libro antiguo que fue archivado allí hace algún tiempo, titulado \'Fire Beckoning and Command\'.$B$BBTráeme este libro y haré lo que me has pedido.",
+    ["D"] = "Lo que estás tratando aquí es bastante interesante, este libro parece mencionar muchos patrones, todos relacionados con Darkforging, de los cuales obtendrás muy poco uso. Las armaduras y las armas que usan los no-muertos están profundamente entrelazadas con la magia que mantiene en pie a sus secuaces.$B$BSi deseas mi ayuda, yo también desearía la tuya. Puedo descubrir lo que dice este texto y señalarte y Wilhelm en la dirección correcta, pero esto requeriría un favor.$B$BViaja a Scholomance y aventúrate en lo más profundo. En el interior estoy buscando un libro antiguo que fue archivado allí hace algún tiempo, titulado \'Fire Beckoning and Command\'.$B$BTráeme este libro y haré lo que me has pedido.",
     ["O"] = "Aventúrate en Scholomance y recupera el libro \'Fire Beckoning and Command\' para Strahad Farsan en Ratchet.",
     ["T"] = "A Favor for Farsan",
   },
@@ -1815,7 +1815,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Knowledge of Lorthiras",
   },
   [40241] = {
-    ["D"] = "¡Debo decir que estoy casi en shock por lo que dices! Si eso es cierto entonces, ¡se nos brinda una oportunidad muy rara! ¡Los mismos actos de templar una Runeblade pueden, en sí mismos, revelar perspectivas de cómo se hace! $B$BI debo decir que ya he aprendido bastante, solo con el libro que encontraste y la historia de este Señor del Terror.$B $BEstamos acercándonos a terminar nuestra aventura amigo, ¡necesitaremos materiales para prepararte para este proceso! Necesitarás 20 runas oscuras, 5 cueros encantados, 40 barras de torio y 10 esencias de no-muerte.$B$BB¡Tráeme estos artículos y podremos comenzar a templarlos!",
+    ["D"] = "¡Debo decir que estoy casi en shock por lo que dices! Si eso es cierto entonces, ¡se nos brinda una oportunidad muy rara! ¡Los mismos actos de templar una Runeblade pueden, en sí mismos, revelar perspectivas de cómo se hace! $B$BI debo decir que ya he aprendido bastante, solo con el libro que encontraste y la historia de este Señor del Terror.$B $BEstamos acercándonos a terminar nuestra aventura amigo, ¡necesitaremos materiales para prepararte para este proceso! Necesitarás 20 runas oscuras, 5 cueros encantados, 40 barras de torio y 10 esencias de no-muerte.$B$B¡Tráeme estos artículos y podremos comenzar a templarlos!",
     ["O"] = "Recoge 20 runas oscuras, 5 cueros encantados, 40 barras de torio y 10 esencias de no-muerte para el artesano Wilhelm en la Capilla de la Esperanza de la Luz.",
     ["T"] = "The Materials of Runeforging",
   },
@@ -1970,12 +1970,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Maul\'ogg Crisis VIII",
   },
   [40272] = {
-    ["D"] = "Parece que ha llegado el momento, has hecho muy bien en todo lo que te he pedido, pero ahora debo pedirte que hagas lo necesario para el bien de mi pueblo. Hemos sufrido durante mucho tiempo, no a manos de nuestros enemigos, sino a manos de nuestros líderes.$B$BSi ha de haber un futuro para los Maul\'ogg, entonces debe ser un futuro de razonamiento, no podemos asegurarnos a nosotros mismos. un lugar dentro de la Horda si constantemente estamos involucrados en una guerra autodestructiva.$B$BBLleva el Elixir de Insom\'ni a Lord Cruk\'zogg, infórmale que es una poción de gran poder que creé para él. Cuando todo haya terminado, regresa a mí.",
+    ["D"] = "Parece que ha llegado el momento, has hecho muy bien en todo lo que te he pedido, pero ahora debo pedirte que hagas lo necesario para el bien de mi pueblo. Hemos sufrido durante mucho tiempo, no a manos de nuestros enemigos, sino a manos de nuestros líderes.$B$BSi ha de haber un futuro para los Maul\'ogg, entonces debe ser un futuro de razonamiento, no podemos asegurarnos a nosotros mismos. un lugar dentro de la Horda si constantemente estamos involucrados en una guerra autodestructiva.$B$BLleva el Elixir de Insom\'ni a Lord Cruk\'zogg, infórmale que es una poción de gran poder que creé para él. Cuando todo haya terminado, regresa a mí.",
     ["O"] = "Dale el Elixir de Insom\'ni a Lord Cruk\'zogg para que influya en su mente y luego regresa con Haz\'gorg el Gran Vidente en el Refugio Maul\'ogg.",
     ["T"] = "The Maul\'ogg Crisis IX",
   },
   [40273] = {
-    ["D"] = "<Una ráfaga de viento abre el diario adjunto>.$B$BBuscando estrellas en lo profundo del océano, Sonrisas perdidas junto al puerto Lágrimas ahogadas en el humo del tabaco Falsas esperanzas en aplausos. Tengo frío, estoy cansado y deseo dormir profundo y tranquilo. caminar a través del vacío ¿Dónde debo empezar para poder continuar? Intento aceptar quién soy, quién soy y qué deseo ser. En mi desesperada necesidad de amor, tengo un solo arrepentimiento.$B$B<A medida que atraviesas el En las páginas la poesía parece volverse más y más oscura>.$B$Bde sueñoProfundidad de oscuridadEstaba buscando apatía,Ahogándome en la miseriaPrincipio y finalAtrapado en el medioSin propósitoSin objetivoCielos oscurosLuna tímidaNoche fríaCama cálida.$B$B<Pasando a la última página no\' No sé qué hacer con eso>.$B$BWHY¿Por qué por qué?¿Por qué yo? ¿Qué hice mal?$B$B<La página está garabateada con la palabra por qué, además de toda la repetición, está escrita una vez más. por toda la página. Al final del diario se transmite un nombre y un mensaje>.",
+    ["D"] = "<Una ráfaga de viento abre el diario adjunto>.$B$Buscando estrellas en lo profundo del océano, Sonrisas perdidas junto al puerto Lágrimas ahogadas en el humo del tabaco Falsas esperanzas en aplausos. Tengo frío, estoy cansado y deseo dormir profundo y tranquilo. caminar a través del vacío ¿Dónde debo empezar para poder continuar? Intento aceptar quién soy, quién soy y qué deseo ser. En mi desesperada necesidad de amor, tengo un solo arrepentimiento.$B$B<A medida que atraviesas el En las páginas la poesía parece volverse más y más oscura>.$B$Bde sueñoProfundidad de oscuridadEstaba buscando apatía,Ahogándome en la miseriaPrincipio y finalAtrapado en el medioSin propósitoSin objetivoCielos oscurosLuna tímidaNoche fríaCama cálida.$B$B<Pasando a la última página no\' No sé qué hacer con eso>.$B$BWHY¿Por qué por qué?¿Por qué yo? ¿Qué hice mal?$B$B<La página está garabateada con la palabra por qué, además de toda la repetición, está escrita una vez más. por toda la página. Al final del diario se transmite un nombre y un mensaje>.",
     ["O"] = "Encuentra al dueño del diario en Ventormenta.",
     ["T"] = "In Search of the Owner",
   },
@@ -2100,7 +2100,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Stop the Dragonflight",
   },
   [40298] = {
-    ["D"] = "Los wyvern son nativos de Kalimdor y se pueden encontrar en gran parte de nuestra tierra. Han demostrado ser compañeros leales de nuestros jinetes del viento. Recuerdo los días en que aseguramos por primera vez la ayuda de estas hermosas criaturas.$B$BEn verdad, han sido un regalo de la Madre Tierra, fortaleciendo el vínculo entre los orcos y mi gente; No es exagerado decir que sin ellos no estaríamos donde estamos hoy. $B$BBristlefur, aquí, ya está manso. Ella no te atacará, ten la seguridad.$B$BLa verdad es que la pobre niña parece estar un poco aburrida desde que olvidé traer su juguete favorito a Durotar. Si tienes tiempo, joven $c, búscale un juguete nuevo y algo para comer. A cambio, estoy seguro de que ella estará encantada de llevarte a los cielos por un tiempo.",
+    ["D"] = "Los wyvern son nativos de Kalimdor y se pueden encontrar en gran parte de nuestra tierra. Han demostrado ser compañeros leales de nuestros jinetes del viento. Recuerdo los días en que aseguramos por primera vez la ayuda de estas hermosas criaturas.$B$BEn verdad, han sido un regalo de la Madre Tierra, fortaleciendo el vínculo entre los orcos y mi gente; No es exagerado decir que sin ellos no estaríamos donde estamos hoy. $B$Bristlefur, aquí, ya está manso. Ella no te atacará, ten la seguridad.$B$BLa verdad es que la pobre niña parece estar un poco aburrida desde que olvidé traer su juguete favorito a Durotar. Si tienes tiempo, joven $c, búscale un juguete nuevo y algo para comer. A cambio, estoy seguro de que ella estará encantada de llevarte a los cielos por un tiempo.",
     ["O"] = "Lleva 5 trozos de carne de jabalí, 3 chuletas de cordero y 1 juguete para masticar huesos a Bristlefur en Razor Hill.",
     ["T"] = "Red Skies of Durotar",
   },
@@ -2135,7 +2135,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Depths of Karazhan I",
   },
   [40305] = {
-    ["D"] = "Con el Colgante de Ardan en nuestras manos podemos centrar nuestra atención en la propia torre, y en qué magia ha comenzado a levantar más fantasmas a su alrededor. Recientemente, los muertos han comenzado a materializarse, espíritus y ecos del pasado se aferran a la torre como si todavía estuvieran vivos.$B$BViaja a las ruinas alrededor de Karazhan, y de los fantasmas y los muertos tráeme 8 sustancias fantasmales. Es a partir de esta sustancia que podré comprobar qué magia persiste en los seres etéreos.$B$BBTen cuidado, porque también hay rumores de un Dark Reaver que guarda la entrada a Karazhan.",
+    ["D"] = "Con el Colgante de Ardan en nuestras manos podemos centrar nuestra atención en la propia torre, y en qué magia ha comenzado a levantar más fantasmas a su alrededor. Recientemente, los muertos han comenzado a materializarse, espíritus y ecos del pasado se aferran a la torre como si todavía estuvieran vivos.$B$BViaja a las ruinas alrededor de Karazhan, y de los fantasmas y los muertos tráeme 8 sustancias fantasmales. Es a partir de esta sustancia que podré comprobar qué magia persiste en los seres etéreos.$B$BTen cuidado, porque también hay rumores de un Dark Reaver que guarda la entrada a Karazhan.",
     ["O"] = "Reúne 8 sustancias fantasmales de los fantasmas que rodean Karazhan y regresa con Kor\'gan en Stonard.",
     ["T"] = "The Depths of Karazhan II",
   },
@@ -2145,7 +2145,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Depths of Karazhan III",
   },
   [40307] = {
-    ["D"] = "Dios mío... Qué energía tan potente, siempre había adivinado que Karazhan tenía energía ley natural, de hecho, se rumoreaba dentro de Dalaran. Korgan hizo bien en traerme estas muestras, serán válidas para proyectos futuros. La energía que persiste debajo de lo arcano es la de la nigromancia, y una nigromancia bastante potente.$B$BHace mucho tiempo pasé bastante tiempo en Karazhan, el Kirin Tor me había asignado la misión de investigar la energía natural que permanecía allí. Este es sin duda el trabajo de Alarus, un estudiante de Medivh durante un breve período de tiempo, pasó gran parte de sus últimos días atendiendo a las criptas que se extendían muy por debajo de la torre.$B$BSi tu tarea es ingresar a esas catacumbas, Tendrás que volver a forjar la llave. Requiere una Marca de Karazhan, en poder de unos pocos a quienes se les dio entrada a la torre, así como la llave en sí.$B$BBLleva esta información a Kor\'gan, tal vez él encuentre una solución a este problema.",
+    ["D"] = "Dios mío... Qué energía tan potente, siempre había adivinado que Karazhan tenía energía ley natural, de hecho, se rumoreaba dentro de Dalaran. Korgan hizo bien en traerme estas muestras, serán válidas para proyectos futuros. La energía que persiste debajo de lo arcano es la de la nigromancia, y una nigromancia bastante potente.$B$BHace mucho tiempo pasé bastante tiempo en Karazhan, el Kirin Tor me había asignado la misión de investigar la energía natural que permanecía allí. Este es sin duda el trabajo de Alarus, un estudiante de Medivh durante un breve período de tiempo, pasó gran parte de sus últimos días atendiendo a las criptas que se extendían muy por debajo de la torre.$B$BSi tu tarea es ingresar a esas catacumbas, Tendrás que volver a forjar la llave. Requiere una Marca de Karazhan, en poder de unos pocos a quienes se les dio entrada a la torre, así como la llave en sí.$B$BLleva esta información a Kor\'gan, tal vez él encuentre una solución a este problema.",
     ["O"] = "Vuelve con Kor\'gan en Stonard con la información dada por Gunther Arcanus.",
     ["T"] = "The Depths of Karazhan IV",
   },
@@ -2285,7 +2285,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Bloodsail Compound V",
   },
   [40335] = {
-    ["D"] = "¡Ahoy Capitán! Te vi divertirte anoche con la chica bardo en nuestro barco, ¿no es una buena pieza? $B$BBPor supuesto, me refiero al barco, por supuesto, no es asunto mío de tus asuntos personales. Hablando de qué Capitán, ¿ya has decidido el nombre del barco? ¡Da mala suerte tener un barco sin nombre en el mar, así que piénsalo!$B$BADe todos modos, pasemos a asuntos más urgentes. El almirante Garfield me dijo que suministrara a nuestro asentamiento bienes generales, pero no tenemos la tranquilidad de comprarlos, así que simplemente lo saquearemos.$B$BASí, saquealo. Los lobos de mar del Sur se han asentado en un banco de arena cerca de esa maldita isla de Giljim.$B$BLa fortuna de las olas te acompañe.",
+    ["D"] = "¡Ahoy Capitán! Te vi divertirte anoche con la chica bardo en nuestro barco, ¿no es una buena pieza? $B$BPor supuesto, me refiero al barco, por supuesto, no es asunto mío de tus asuntos personales. Hablando de qué Capitán, ¿ya has decidido el nombre del barco? ¡Da mala suerte tener un barco sin nombre en el mar, así que piénsalo!$B$BADe todos modos, pasemos a asuntos más urgentes. El almirante Garfield me dijo que suministrara a nuestro asentamiento bienes generales, pero no tenemos la tranquilidad de comprarlos, así que simplemente lo saquearemos.$B$BASí, saquealo. Los lobos de mar del Sur se han asentado en un banco de arena cerca de esa maldita isla de Giljim.$B$BLa fortuna de las olas te acompañe.",
     ["O"] = "Saquea 10 cajas de bienes generales del banco de arena de los Mares del Sur y regresa con Belgrush Daggerfist.",
     ["T"] = "Another Day of Labor",
   },
@@ -2485,7 +2485,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Appealing to the Alliance: Gnomes",
   },
   [40375] = {
-    ["D"] = "Por último, preparamos un mensaje único solo para la suma sacerdotisa Tyrande Whisperwind. Algunos dicen que ella brindó ayuda a nuestro pueblo en el pasado; Solo puedo esperar que ella todavía vea que solo trabajando juntos podemos crear un futuro mejor para nuestras dos naciones.$B$BBuena suerte y por favor regresa con su respuesta tan pronto como la recibas.",
+    ["D"] = "Por último, preparamos un mensaje único solo para la suma sacerdotisa Tyrande Whisperwind. Algunos dicen que ella brindó ayuda a nuestro pueblo en el pasado; Solo puedo esperar que ella todavía vea que solo trabajando juntos podemos crear un futuro mejor para nuestras dos naciones.$B$Buena suerte y por favor regresa con su respuesta tan pronto como la recibas.",
     ["O"] = "Entrega la misiva sellada a la suma sacerdotisa Tyrande Susurravientos.",
     ["T"] = "Appealing to the Alliance: Night Elves",
   },
@@ -2595,7 +2595,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Captain Grayson\'s Revenge",
   },
   [40397] = {
-    ["D"] = "Este bosque solía estar repleto de vida; una vez fue mi hogar. Ahora, no es más que una abominación retorcida, una ruina de la belleza que una vez estuvo aquí. Aquellos a quienes alguna vez llamamos hermanos han jugado un papel importante en la corrupción de esta tierra.$B$BEl Sátiro se puede encontrar por todo Frondavil, acechando entre las ruinas y pensando en formas de difundir aún más su corrupción. Los odio con cada parte de mi ser y he matado a muchos. Me ayudarás en la matanza.$B$BBTráeme 60 cuernos de estas bestias. Una vez que los hayas recuperado, sabré que eres capaz de lo que está por venir.",
+    ["D"] = "Este bosque solía estar repleto de vida; una vez fue mi hogar. Ahora, no es más que una abominación retorcida, una ruina de la belleza que una vez estuvo aquí. Aquellos a quienes alguna vez llamamos hermanos han jugado un papel importante en la corrupción de esta tierra.$B$BEl Sátiro se puede encontrar por todo Frondavil, acechando entre las ruinas y pensando en formas de difundir aún más su corrupción. Los odio con cada parte de mi ser y he matado a muchos. Me ayudarás en la matanza.$B$BTráeme 60 cuernos de estas bestias. Una vez que los hayas recuperado, sabré que eres capaz de lo que está por venir.",
     ["O"] = "Mata a Satyr y recoge 60 cuernos para alimentar la sed de sangre de Niremius Darkwind dentro de Felwood.",
     ["T"] = "By Any Means Necessary I",
   },
@@ -2610,7 +2610,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "By Any Means Necessary III",
   },
   [40400] = {
-    ["D"] = "Me has hecho un gran servicio al recuperar este artefacto de manos de los adoradores demoníacos. Será mejor servirlo en mis manos, en lugar de servir al mal.$B$BSi bien es posible que te haya usado para promover mis propios objetivos, no soy un traidor, y haré que valga la pena ahora que has logrado lo que has logrado. Yo deseaba. Forjaré una guja en mi nombre para ti, una que puede matar a todos los que se te oponen, especialmente a los de la Sombra Ardiente. Sin embargo, no me desprenderé de semejante arma tan fácilmente.$B$BI requiere un último intercambio. En lo profundo del Templo Hundido se encuentran los guardianes del Vuelo Verde, corruptos y retorcidos tras su largo sueño en el Sueño Esmeralda. Uno de sus defensores, Hazzas, lo conocí hace mucho tiempo. Es un ser poderoso y no debe ser atormentado más.$B$BBTráeme su corazón y libéralo del tormento. Sólo entonces obtendrás tu recompensa.",
+    ["D"] = "Me has hecho un gran servicio al recuperar este artefacto de manos de los adoradores demoníacos. Será mejor servirlo en mis manos, en lugar de servir al mal.$B$BSi bien es posible que te haya usado para promover mis propios objetivos, no soy un traidor, y haré que valga la pena ahora que has logrado lo que has logrado. Yo deseaba. Forjaré una guja en mi nombre para ti, una que puede matar a todos los que se te oponen, especialmente a los de la Sombra Ardiente. Sin embargo, no me desprenderé de semejante arma tan fácilmente.$B$BI requiere un último intercambio. En lo profundo del Templo Hundido se encuentran los guardianes del Vuelo Verde, corruptos y retorcidos tras su largo sueño en el Sueño Esmeralda. Uno de sus defensores, Hazzas, lo conocí hace mucho tiempo. Es un ser poderoso y no debe ser atormentado más.$B$BTráeme su corazón y libéralo del tormento. Sólo entonces obtendrás tu recompensa.",
     ["O"] = "Viaja al Templo Hundido y encuentra a los Dragonkin Hazzas, mátalo y devuélvele el Corazón de Hazzas a Niremius Darkwind.",
     ["T"] = "By Any Means Necessary IV",
   },
@@ -2725,7 +2725,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Shadowsworn Altar",
   },
   [40423] = {
-    ["D"] = "¿Sabes qué es lo peor aquí? Ni el calor, ni los demonios. Ni siquiera la alianza, sentada cómodamente en su castillo. Son los ogros. ¿Por qué ogros? Porque los odio. Y esa es una razón bastante buena.$B$BEso, y por supuesto, son un peligro para nuestra misión.$B$BBTráeme veinte cabezas de ogro. De cualquier ogro, no me importa. Personalmente escribiré sobre su victoria en el informe.",
+    ["D"] = "¿Sabes qué es lo peor aquí? Ni el calor, ni los demonios. Ni siquiera la alianza, sentada cómodamente en su castillo. Son los ogros. ¿Por qué ogros? Porque los odio. Y esa es una razón bastante buena.$B$BEso, y por supuesto, son un peligro para nuestra misión.$B$BTráeme veinte cabezas de ogro. De cualquier ogro, no me importa. Personalmente escribiré sobre su victoria en el informe.",
     ["O"] = "Lleva 20 cabezas de Dreadmaul a Bagaroh en las Tierras Devastadas.",
     ["T"] = "Blasted Ogres!",
   },
@@ -2735,7 +2735,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Report from a Blasted Land",
   },
   [40425] = {
-    ["D"] = "Durante mucho tiempo se ha rumoreado que el místico noveno volumen de Las complejidades arcanas y el fenómeno mágico se ha escondido en lo profundo de la Bóveda de Ventormenta. Hace tanto que desapareció que casi se ha convertido en una leyenda, el tomo secreto perdido.$B$BBueno, ya no es un secreto y es necesario recuperarlo antes de que algún vil vagabundo ponga sus manos en algo tan raro. $B$BDentro de Stormwind Vault se encuentra este libro, es necesario recuperarlo para poder completar mis registros del mismo.",
+    ["D"] = "Durante mucho tiempo se ha rumoreado que el místico noveno volumen de Las complejidades arcanas y el fenómeno mágico se ha escondido en lo profundo de la Bóveda de Ventormenta. Hace tanto que desapareció que casi se ha convertido en una leyenda, el tomo secreto perdido.$B$Bueno, ya no es un secreto y es necesario recuperarlo antes de que algún vil vagabundo ponga sus manos en algo tan raro. $B$BDentro de Stormwind Vault se encuentra este libro, es necesario recuperarlo para poder completar mis registros del mismo.",
     ["O"] = "Recupera el Tomo de complejidades arcanas y fenómeno mágico IX para Mazen Mac\'Nadir en Ventormenta.",
     ["T"] = "The Tome of Arcane Intricacies and Magical Phenomenon IX",
   },
@@ -2875,7 +2875,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "To Strike Back : Ruins of Zul\'Rasaz",
   },
   [40453] = {
-    ["D"] = "Los ogros nos han causado muchos dolores de cabeza y nos han arrebatado una sección de la ciudad. Lo último que necesitamos es más fuerzas provenientes de fuera de los muros para ayudar a los que están dentro.$B$BAl norte, justo en las afueras de la ciudad, se encuentra Boulder\'gor, un pequeño puesto avanzado que es un santuario de ogros. Necesito que vayas allí y les lleves la lucha, para que no lleguen más a la ciudad.$B$BBTráeme veinte porras de Puño de Roca como prueba y Stromgarde te recompensará.",
+    ["D"] = "Los ogros nos han causado muchos dolores de cabeza y nos han arrebatado una sección de la ciudad. Lo último que necesitamos es más fuerzas provenientes de fuera de los muros para ayudar a los que están dentro.$B$BAl norte, justo en las afueras de la ciudad, se encuentra Boulder\'gor, un pequeño puesto avanzado que es un santuario de ogros. Necesito que vayas allí y les lleves la lucha, para que no lleguen más a la ciudad.$B$BTráeme veinte porras de Puño de Roca como prueba y Stromgarde te recompensará.",
     ["O"] = "Reúne 20 porras de puño de roca para el sargento Karster en Gallant Square en Stromgarde Keep.",
     ["T"] = "The Boulderfist Outpost",
   },
@@ -2925,7 +2925,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Miners Union Mutiny",
   },
   [40463] = {
-    ["D"] = "Bargul Blackhammer$B$BEsa vil escoria ha estado trabajando para conseguir el puesto de Alto Capataz durante años, intentando todas las tácticas clandestinas que se le ocurrieron.$B$BDesde la violencia hasta el engaño, nada estaba fuera de la mesa para escoria como él.$B$BLa idea de la Cantera Hateforge fue una idea que se le ocurrió a Bargul y la envió al Senado. Terminó convenciéndolos a todos y trabajaron en conjunto para sacarme de mi puesto.$B$BBargul Blackhammer ahora tiene mi título desde una posición de fraude clandestino, y quiero que ya no lo tenga.$B$ Dentro de la Cantera Hateforge, Bargul Blackhammer supervisa el trabajo desde lo alto de su torre con puño de hierro, lo mata por todo el caos que ha causado y recupera las Órdenes del Senado alrededor de sus posesiones.",
+    ["D"] = "Bargul Blackhammer$B$BEsa vil escoria ha estado trabajando para conseguir el puesto de Alto Capataz durante años, intentando todas las tácticas clandestinas que se le ocurrieron.$B$BDesde la violencia hasta el engaño, nada estaba fuera de la mesa para escoria como él.$B$BLa idea de la Cantera Hateforge fue una idea que se le ocurrió a Bargul y la envió al Senado. Terminó convenciéndolos a todos y trabajaron en conjunto para sacarme de mi puesto.$B$Bargul Blackhammer ahora tiene mi título desde una posición de fraude clandestino, y quiero que ya no lo tenga.$B$ Dentro de la Cantera Hateforge, Bargul Blackhammer supervisa el trabajo desde lo alto de su torre con puño de hierro, lo mata por todo el caos que ha causado y recupera las Órdenes del Senado alrededor de sus posesiones.",
     ["O"] = "Mata a Bargul Martillo Negro y recupera las órdenes del Senado para Orvak Roca Stern en el Paso Roca Negra en Las Estepas Ardientes.",
     ["T"] = "The True High Foreman",
   },
@@ -2945,7 +2945,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "To Purchase Secret Information",
   },
   [40467] = {
-    ["D"] = "Esta información contiene todo tipo de proveedores, distribuidores y quiénes están involucrados, parece que Argelmach es quien tendría tal artículo.$B$BSi alguna vez voy a tener en mis manos un Arcane Golem Core, sería a través de él. y eso significa que necesito que lo consigas.$B$BPuedes encontrar a Argelmach en lo profundo de las Profundidades de Roca Negra, generalmente se lo ve alrededor de un equipo de expertos en armas y Arcanasmiths.$B$BBTráeme un Núcleo de Golem Arcano y haré ¡Vale la pena!",
+    ["D"] = "Esta información contiene todo tipo de proveedores, distribuidores y quiénes están involucrados, parece que Argelmach es quien tendría tal artículo.$B$BSi alguna vez voy a tener en mis manos un Arcane Golem Core, sería a través de él. y eso significa que necesito que lo consigas.$B$BPuedes encontrar a Argelmach en lo profundo de las Profundidades de Roca Negra, generalmente se lo ve alrededor de un equipo de expertos en armas y Arcanasmiths.$B$BTráeme un Núcleo de Golem Arcano y haré ¡Vale la pena!",
     ["O"] = "Encuentra y recoge un núcleo de gólem arcano de Golem Lord Argelmach en Blackrock Depths y regresa con Radgan Deepblaze en Blackrock Pass en Burning Steppes.",
     ["T"] = "The Arcane Golem Core",
   },
@@ -3045,7 +3045,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Investigating Hateforge",
   },
   [40487] = {
-    ["D"] = "<El senador Barbagranito escribe rápidamente su informe, lo sella y lo estampa con el sello de Forjaz.>$B$BAhí, necesito que lleves esto a Forjaz de inmediato y se lo informes al rey Magni Barbabronce, debería Mantén toda la información relevante basada en lo que he visto y en lo que me has informado.$B$BBé rápido, nuestros enemigos conspiran contra nosotros.",
+    ["D"] = "<El senador Barbagranito escribe rápidamente su informe, lo sella y lo estampa con el sello de Forjaz.>$B$BAhí, necesito que lleves esto a Forjaz de inmediato y se lo informes al rey Magni Barbabronce, debería Mantén toda la información relevante basada en lo que he visto y en lo que me has informado.$B$Bé rápido, nuestros enemigos conspiran contra nosotros.",
     ["O"] = "Lleva el informe de Hateforge al rey Magni Barbabronce en Forjaz.",
     ["T"] = "The Hateforge Report",
   },
@@ -3175,7 +3175,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Eperius Needs Grains",
   },
   [40513] = {
-    ["D"] = "¡Baaaaa! ¡Debes ayudarme!$B$BEl mago de la casa me convirtió en esta forma mientras estaba de viaje.$B$BBaaaaa! ¡Baaa!$B$B¡Tienes que hacer algo, él reside dentro de la granja, mátalo y tráeme su Anillo Nacido Azur para que pueda ser liberado de esta tortura!$B$BBaaaaaa!$B$B< La oveja te mira con ojos suplicantes.>",
+    ["D"] = "¡Baaaaa! ¡Debes ayudarme!$B$BEl mago de la casa me convirtió en esta forma mientras estaba de viaje.$B$Baaaaa! ¡Baaa!$B$B¡Tienes que hacer algo, él reside dentro de la granja, mátalo y tráeme su Anillo Nacido Azur para que pueda ser liberado de esta tortura!$B$Baaaaaa!$B$B< La oveja te mira con ojos suplicantes.>",
     ["O"] = "Reúne el anillo Azureborn de Kalman Azureborn en Durotar para Lashog.",
     ["T"] = "Polymorph Enslavement!",
   },
@@ -3250,7 +3250,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "End Ukorz Sandscalp",
   },
   [40528] = {
-    ["D"] = "¡Sé tú quien esté hurgando en nuestro pueblo! ¡Será mejor que seas útil o Ekka te dará de comer a Viceclaw!$B$BA Viceclaw le gusta la carne buena y dura. Las tortugas de la costa son sus favoritas. ¡Ekka no puede ir allí, los duendes la matarían a tiros! ¡Trae la carne de Viceclaw y como recompensa te perdonará! $B$B<Ekka se ríe maniáticamente>$B$BBuen Viceclaw, bien.",
+    ["D"] = "¡Sé tú quien esté hurgando en nuestro pueblo! ¡Será mejor que seas útil o Ekka te dará de comer a Viceclaw!$B$BA Viceclaw le gusta la carne buena y dura. Las tortugas de la costa son sus favoritas. ¡Ekka no puede ir allí, los duendes la matarían a tiros! ¡Trae la carne de Viceclaw y como recompensa te perdonará! $B$B<Ekka se ríe maniáticamente>$B$Buen Viceclaw, bien.",
     ["O"] = "Llévale 10 trozos de carne de tortuga a Ekka en Sandmoon Village en Tanaris.",
     ["T"] = "Meat for Viceclaw!",
   },
@@ -3365,7 +3365,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Goblin Linguist",
   },
   [40551] = {
-    ["D"] = "Mientras estoy ocupado traduciendo esto, ayúdame. Fácil.$B$BI necesito algo de Vega de Tuercespina. Lo sé, está lejos, pero afortunadamente, ¡tenemos un hermoso barco que te llevará directamente a Booty Bay! Maravilloso, ¿no? $B$BI escuchó sobre algunas operaciones mineras que se realizan en la región norte, cerca de algún lago o algo así. Nada menos que por nuestro competidor, Venture Company. Necesito que vayas allí y, ehm, que les prestes algunas cosas. $B$BBTráeme 10 muestras de \'la cosa\' que están excavando. Escuché que son unos cristales azules. Creo que podrás encontrarlos en sus cadáveres. Pero no escuchaste eso de mí.",
+    ["D"] = "Mientras estoy ocupado traduciendo esto, ayúdame. Fácil.$B$BI necesito algo de Vega de Tuercespina. Lo sé, está lejos, pero afortunadamente, ¡tenemos un hermoso barco que te llevará directamente a Booty Bay! Maravilloso, ¿no? $B$BI escuchó sobre algunas operaciones mineras que se realizan en la región norte, cerca de algún lago o algo así. Nada menos que por nuestro competidor, Venture Company. Necesito que vayas allí y, ehm, que les prestes algunas cosas. $B$BTráeme 10 muestras de \'la cosa\' que están excavando. Escuché que son unos cristales azules. Creo que podrás encontrarlos en sus cadáveres. Pero no escuchaste eso de mí.",
     ["O"] = "Lleva 10 fragmentos azules extraños de Venture Company en Vega de Tuercespina para Sputtervalve en Ratchet.",
     ["T"] = "A Strangle Favor",
   },
@@ -3485,7 +3485,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Someone With A Pig\'s Tongue",
   },
   [40575] = {
-    ["D"] = "¿Necesitas que Mangletooth te traduzca una tableta <snort.>?$B$BMangletooth lo hará para un regalo especial!<snort.>Mangletooth anhela ojos de basilisco, abajo en Thousand Needles encontrarás <snort.> Basiliscos de piedra salada, en Shimmering Flats!$B$BBTrae alrededor de <resoplido.> 20 de ellos y Mangletooth traduce, ¡favor por <resoplido.> favor!",
+    ["D"] = "¿Necesitas que Mangletooth te traduzca una tableta <snort.>?$B$BMangletooth lo hará para un regalo especial!<snort.>Mangletooth anhela ojos de basilisco, abajo en Thousand Needles encontrarás <snort.> Basiliscos de piedra salada, en Shimmering Flats!$B$BTrae alrededor de <resoplido.> 20 de ellos y Mangletooth traduce, ¡favor por <resoplido.> favor!",
     ["O"] = "Lleva 20 ojos de piedra salada de los basiliscos en Shimmering Flat a Mangletooth.",
     ["T"] = "Willing to Serve",
   },
@@ -3620,7 +3620,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Old Church of Westfall IX",
   },
   [40602] = {
-    ["D"] = "Es hora de que se haga justicia. Por el asesinato de la familia Easton y la alteración de la paz en los Páramos de Poniente, Carver Molsen no se ahorrará ninguna misericordia en estas tierras.$B$BBLleva buenas noticias a los habitantes restantes de los Páramos de Poniente y viaja a Dead Acre, justo al sureste. Mátalo y recupera la escritura de Easton Fields, la escritura de Molsen Farm y la llave de la iglesia Westfall.$B$BSin él, aún puede haber esperanza para un futuro en estas tierras.",
+    ["D"] = "Es hora de que se haga justicia. Por el asesinato de la familia Easton y la alteración de la paz en los Páramos de Poniente, Carver Molsen no se ahorrará ninguna misericordia en estas tierras.$B$BLleva buenas noticias a los habitantes restantes de los Páramos de Poniente y viaja a Dead Acre, justo al sureste. Mátalo y recupera la escritura de Easton Fields, la escritura de Molsen Farm y la llave de la iglesia Westfall.$B$BSin él, aún puede haber esperanza para un futuro en estas tierras.",
     ["O"] = "Viaja a Dead Acre y mata a Carver Molsen, recupera la escritura de Easton Fields, la escritura de Molsen Farm y la iglesia de Westfall para Gryan Stoutmantle en Sentinel Hill en Westfall.",
     ["T"] = "The Old Church of Westfall X",
   },
@@ -3650,7 +3650,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ritual Secrets of the Witherbark",
   },
   [40608] = {
-    ["D"] = "Se necesitaron semanas para fertilizar, trabajar esa tierra y hacer tierra utilizable, todo arruinado por una bandada de buitres que descendieron en picado y devastaron el lugar en busca de alimento fresco.$B$BBah, ¡malditos buitres tontos!$B$BPuede que haya Todavía quedaba algo de la cosecha, por suerte para nosotros acababa de terminar de empaquetarlo todo antes de que esos bastardos vinieran y me hicieran huir. Baja la colina hacia la granja, mata a algunos para que el resto se lo piense dos veces antes de quedarse allí demasiado tiempo y recoge 4 paquetes de cosechas, ¿quieres?",
+    ["D"] = "Se necesitaron semanas para fertilizar, trabajar esa tierra y hacer tierra utilizable, todo arruinado por una bandada de buitres que descendieron en picado y devastaron el lugar en busca de alimento fresco.$B$Bah, ¡malditos buitres tontos!$B$BPuede que haya Todavía quedaba algo de la cosecha, por suerte para nosotros acababa de terminar de empaquetarlo todo antes de que esos bastardos vinieran y me hicieran huir. Baja la colina hacia la granja, mata a algunos para que el resto se lo piense dos veces antes de quedarse allí demasiado tiempo y recoge 4 paquetes de cosechas, ¿quieres?",
     ["O"] = "Viaja a la granja en Bael Hardul debajo de la ciudad, mata a 5 Plateau Fleshrippers y reúne 4 cosechas combinadas para Segwar Ironback en Stonetalon Mountains.",
     ["T"] = "Salvaging the Crops",
   },
@@ -3660,7 +3660,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "With Us or Against Us",
   },
   [40610] = {
-    ["D"] = "¿Quieres que cante tu nombre a la tribu? Entonces excítame. Lucha contra las criaturas más aterradoras de Mashan\'she.$B$BB¡Las mejores peleas son con múltiples enemigos! ¡Hasta la muerte! Busca al Bonepaw del norte. Cazan en manadas. Destrozan a sus enemigos. Sacan órganos de los vientres y pelean por tus restos cuando te caes.$B$B<Ella mueve su cola y camina con sus cascos emocionada mientras piensa en ello.>",
+    ["D"] = "¿Quieres que cante tu nombre a la tribu? Entonces excítame. Lucha contra las criaturas más aterradoras de Mashan\'she.$B$B¡Las mejores peleas son con múltiples enemigos! ¡Hasta la muerte! Busca al Bonepaw del norte. Cazan en manadas. Destrozan a sus enemigos. Sacan órganos de los vientres y pelean por tus restos cuando te caes.$B$B<Ella mueve su cola y camina con sus cascos emocionada mientras piensa en ello.>",
     ["O"] = "Mata a 8 Zarpahuesos hambrientos para demostrar tu valía ante Jochi en Magram Village en Desolace.",
     ["T"] = "Fighting the Pack",
   },
@@ -3780,12 +3780,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Gnomes Were Always A Leper",
   },
   [40636] = {
-    ["D"] = "Yo soy la ley por aquí, amigo. Dis la ley y tú me diste, y hago que mis muchachos te conviertan en pólvora para nuestra bomba, ¿entendido? $B$BBien.$B$BSiado que ya estás aquí, tengo una propuesta de negocio para ti. Puedes golpear a algunos lagartos, la paz sigue en pie, todos ganan, ¿eh? $B$BAhora escucha, dejando la pura comedia a un lado, tenemos algunos problemas reales con los basiliscos por aquí. ¿Por qué? Bueno, porque les cabe un duende en la boca, por eso.$B$BA¡Todo lo que tienes que hacer es salir y matar a algunos de ellos! Solo un poco, tengo que dejar algo para mis chicos también, ¿no? $B$BPan simple para ganar, ¡sencillo!",
+    ["D"] = "Yo soy la ley por aquí, amigo. Dis la ley y tú me diste, y hago que mis muchachos te conviertan en pólvora para nuestra bomba, ¿entendido? $B$Bien.$B$BSiado que ya estás aquí, tengo una propuesta de negocio para ti. Puedes golpear a algunos lagartos, la paz sigue en pie, todos ganan, ¿eh? $B$BAhora escucha, dejando la pura comedia a un lado, tenemos algunos problemas reales con los basiliscos por aquí. ¿Por qué? Bueno, porque les cabe un duende en la boca, por eso.$B$BA¡Todo lo que tienes que hacer es salir y matar a algunos de ellos! Solo un poco, tengo que dejar algo para mis chicos también, ¿no? $B$BPan simple para ganar, ¡sencillo!",
     ["O"] = "Mata a 9 basiliscos ennegrecidos y regresa al oficial de seguridad Mort Tozzlefume a Powder Town en Stonetalon Mountains.",
     ["T"] = "Blacken Their Eyes",
   },
   [40637] = {
-    ["D"] = "¡Buen trabajo con esos lagartos! Dejó suficiente para que mis hijos también se diviertan. Eh, para ser honesto, algunos se los comieron. ¡Pero se divirtieron! ¿Bien? ¡No me mires como ese niño, soy un gran jefe! ¿Crees que conseguí este trabajo porque le molesté bien a alguien? $B$BOof, no puedo retractarme de esas palabras. ¡Aún! Nuevo trabajo elegido especialmente para ti, mi camarada muy capaz, sí, camarada.$B$BLa naturaleza muy explosiva de Venture Co. parece haber despertado a algunos elementales de la tierra muy, muy enojados o algo así. Salrog estaba diciendo algunas tonterías espirituales orcas.$B$BVe a tratar con ellos y yo te pago, ¡el mejor trato que obtendrás en Powder Town! Eso es si la ciudad todavía está en pie cuando regreses.$B$BBlasted Venture Co., claramente fueron ellos, ¿verdad? No las pruebas que hemos estado realizando con las bombas, ¿verdad?",
+    ["D"] = "¡Buen trabajo con esos lagartos! Dejó suficiente para que mis hijos también se diviertan. Eh, para ser honesto, algunos se los comieron. ¡Pero se divirtieron! ¿Bien? ¡No me mires como ese niño, soy un gran jefe! ¿Crees que conseguí este trabajo porque le molesté bien a alguien? $B$BOof, no puedo retractarme de esas palabras. ¡Aún! Nuevo trabajo elegido especialmente para ti, mi camarada muy capaz, sí, camarada.$B$BLa naturaleza muy explosiva de Venture Co. parece haber despertado a algunos elementales de la tierra muy, muy enojados o algo así. Salrog estaba diciendo algunas tonterías espirituales orcas.$B$BVe a tratar con ellos y yo te pago, ¡el mejor trato que obtendrás en Powder Town! Eso es si la ciudad todavía está en pie cuando regreses.$B$Blasted Venture Co., claramente fueron ellos, ¿verdad? No las pruebas que hemos estado realizando con las bombas, ¿verdad?",
     ["O"] = "Mata a 7 elementales de tierra retumbantes y regresa con el oficial de seguridad Mort Tozzlefume en Powder Town en Stonetalon Mountains.",
     ["T"] = "Earth Rumble",
   },
@@ -3835,7 +3835,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Least Paranoid Goblin",
   },
   [40647] = {
-    ["D"] = "Shadow te da la bienvenida, $N. Mi nombre es Artemus y he viajado muy lejos desde Hillsbrad Foothills para hacer negocios con los Goblins de Powder Town. Son muy singulares llamarlos así. Locos que harían cualquier cosa por sus objetivos e incluso por alguien de mi condición, ¡esto es muy emocionante!$B$BI estudiaba herbología en Dalaran cuando era más joven, lamentablemente no estaba cerca de mi casa cuando llegó la plaga y allí estábamos. tenerlo. No los aburriré con una historia jabonosa sobre cómo llegué a ser un no-muerto y cuánto me odio a mí mismo o lo que digan los demás. Estoy bastante contento con mi condición, finalmente tengo tiempo para experimentar y aprender todo lo que quiero. $B$BI he viajado hasta aquí para continuar mis estudios, más específicamente en decadencia. Los antiguos locales del Valle Carbonizado se han marchitado y han sido torturados.$B$BBTráeme una de sus raíces en descomposición, te resultará útil.",
+    ["D"] = "Shadow te da la bienvenida, $N. Mi nombre es Artemus y he viajado muy lejos desde Hillsbrad Foothills para hacer negocios con los Goblins de Powder Town. Son muy singulares llamarlos así. Locos que harían cualquier cosa por sus objetivos e incluso por alguien de mi condición, ¡esto es muy emocionante!$B$BI estudiaba herbología en Dalaran cuando era más joven, lamentablemente no estaba cerca de mi casa cuando llegó la plaga y allí estábamos. tenerlo. No los aburriré con una historia jabonosa sobre cómo llegué a ser un no-muerto y cuánto me odio a mí mismo o lo que digan los demás. Estoy bastante contento con mi condición, finalmente tengo tiempo para experimentar y aprender todo lo que quiero. $B$BI he viajado hasta aquí para continuar mis estudios, más específicamente en decadencia. Los antiguos locales del Valle Carbonizado se han marchitado y han sido torturados.$B$BTráeme una de sus raíces en descomposición, te resultará útil.",
     ["O"] = "Reúne las raíces en descomposición para Artemus Halloway en Powder Town en Stonetalon Mountains.",
     ["T"] = "Knowledge on Withering",
   },
@@ -3850,7 +3850,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Shadowforge Menace",
   },
   [40650] = {
-    ["D"] = "¿Has visto un pollo con la cabeza cortada, $r? Corre de un lado a otro, sin rumbo, presa del pánico, antes de finalmente caer muerto. Cuando te dirijas a la Fortaleza de Angor, al noreste, adéntrate profundamente en ella. Ve por el que los organiza, y el resto que sobreviva estará tan desorientado como el pájaro decapitado.$B$BBarlgruf es su nombre. No estará solo ni será complaciente, así que golpea primero y golpea fuerte. Vuelve a mí cuando yace en un charco de su propia sangre.",
+    ["D"] = "¿Has visto un pollo con la cabeza cortada, $r? Corre de un lado a otro, sin rumbo, presa del pánico, antes de finalmente caer muerto. Cuando te dirijas a la Fortaleza de Angor, al noreste, adéntrate profundamente en ella. Ve por el que los organiza, y el resto que sobreviva estará tan desorientado como el pájaro decapitado.$B$Barlgruf es su nombre. No estará solo ni será complaciente, así que golpea primero y golpea fuerte. Vuelve a mí cuando yace en un charco de su propia sangre.",
     ["O"] = "Mata al Capitán Barlgruf en la Fortaleza de Angor para el Señor de la Guerra Dientes Sangrientos en Kargath, en Badlands.",
     ["T"] = "The Shadowforge Captain",
   },
@@ -3860,7 +3860,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Heart of Stone",
   },
   [40652] = {
-    ["D"] = "Ah, un momento de tu tiempo por favor, $n?$B$BYSí, sí, sé quién eres. Estaba planeando discutir este tema con el senador Redstone, ya que parece tener un interés pasajero en lo que sucede en Badlands. Pero como has venido fortuitamente a mí, tal vez escuches mi petición. $B$BMi hermano es parte de un grupo expedicionario allí abajo, ¿ves? Es un buscador de oro, pero tiene la mente puesta en ridículos cuentos de hadas y persigue leyendas. ¡Ha perdido de vista lo importante! Se puede obtener mucha riqueza y conocimiento rascando la superficie de la tierra, y mucho menos profundizando en sus profundidades.$B$BBusca los sitios de excavación en la parte norte de Badlands. Cuidado, creo que los Enanos Hierro Negro están excavando allí y es poco probable que disfruten de los espectadores. Vuelve cuando tengas una buena colección de artefactos.$B$BOh, ¿y $n? Si no puedes levantarlos del suelo, siéntete libre de tomarlos directamente de sus manos.",
+    ["D"] = "Ah, un momento de tu tiempo por favor, $n?$B$BYSí, sí, sé quién eres. Estaba planeando discutir este tema con el senador Redstone, ya que parece tener un interés pasajero en lo que sucede en Badlands. Pero como has venido fortuitamente a mí, tal vez escuches mi petición. $B$BMi hermano es parte de un grupo expedicionario allí abajo, ¿ves? Es un buscador de oro, pero tiene la mente puesta en ridículos cuentos de hadas y persigue leyendas. ¡Ha perdido de vista lo importante! Se puede obtener mucha riqueza y conocimiento rascando la superficie de la tierra, y mucho menos profundizando en sus profundidades.$B$Busca los sitios de excavación en la parte norte de Badlands. Cuidado, creo que los Enanos Hierro Negro están excavando allí y es poco probable que disfruten de los espectadores. Vuelve cuando tengas una buena colección de artefactos.$B$BOh, ¿y $n? Si no puedes levantarlos del suelo, siéntete libre de tomarlos directamente de sus manos.",
     ["O"] = "Reúne 8 reliquias polvorientas de Angor Digsite en Badlands para el senador Ryedol en Ironforge.",
     ["T"] = "Eyes on the Prize",
   },
@@ -4015,7 +4015,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Raptor Ridge",
   },
   [40683] = {
-    ["D"] = "¡Siempre problema-problema para Mosshide, primero con Raptor, ahora con dragón!$B$BCada día, más y más cachorros de dragón deambulan por el campo, ¡tantos que es difícil caminar adecuadamente por la tierra sin preocuparse por el fuego del dragón!$ B$BBogpaw necesita hierbas valiosas, ¡y muchos de mis buenos lugares ahora están llenos de dragones!$B$BVe a matar al cachorro-cachorro para Bogpaw, deja que Bogpaw consiga un buen lugar nuevamente.$B$BEncuentras al cachorro de dragón al sureste, ahora ¡vamos!",
+    ["D"] = "¡Siempre problema-problema para Mosshide, primero con Raptor, ahora con dragón!$B$BCada día, más y más cachorros de dragón deambulan por el campo, ¡tantos que es difícil caminar adecuadamente por la tierra sin preocuparse por el fuego del dragón!$ B$Bogpaw necesita hierbas valiosas, ¡y muchos de mis buenos lugares ahora están llenos de dragones!$B$BVe a matar al cachorro-cachorro para Bogpaw, deja que Bogpaw consiga un buen lugar nuevamente.$B$BEncuentras al cachorro de dragón al sureste, ahora ¡vamos!",
     ["O"] = "Mata a 7 cachorros perdidos y a 5 cachorros carmesí para Bogpaw Truthsay cerca del Cinturón Verde en los Humedales.",
     ["T"] = "Dragonkin Annoyance!",
   },
@@ -4060,7 +4060,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Journey for Vengeance",
   },
   [40692] = {
-    ["D"] = "La historia de mi familia está manchada, nuestras reliquias familiares perdidas en el tiempo y nuestra hacha en manos de un orco que mató a mis parientes.$B$BNo hay mayor caída para un enano, y debo corregir los errores.$B $BI he tenido algo de suerte al rastrear a este \'Scartusk\', porque es uno de los Grito de Guerra y permanece en el bosque de Vallefresno, justo más allá del Sendero Talondeep, hacia el norte. Justo después de Talondeep Path, dirígete hacia el oeste, a las Ruinas de Stardust, allí reside, explorando al enemigo.$B$BBTráeme el hacha de mi familia y honra a mi hermano.",
+    ["D"] = "La historia de mi familia está manchada, nuestras reliquias familiares perdidas en el tiempo y nuestra hacha en manos de un orco que mató a mis parientes.$B$BNo hay mayor caída para un enano, y debo corregir los errores.$B $BI he tenido algo de suerte al rastrear a este \'Scartusk\', porque es uno de los Grito de Guerra y permanece en el bosque de Vallefresno, justo más allá del Sendero Talondeep, hacia el norte. Justo después de Talondeep Path, dirígete hacia el oeste, a las Ruinas de Stardust, allí reside, explorando al enemigo.$B$BTráeme el hacha de mi familia y honra a mi hermano.",
     ["O"] = "Encuentra y mata al orco Scartusk y recupera el hacha de Battlebeard para Grumnir Battlebeard en Bael Hardul en Stonetalon Mountains.",
     ["T"] = "The Battlebeard Legacy",
   },
@@ -4080,7 +4080,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Sputtervalve Fix",
   },
   [40696] = {
-    ["D"] = "<Tansi Sparkfuse parpadea ante el conductor de la válvula de pulverización.>$B$BBueno, eso no fue demasiado difícil, todo lo que necesitó fueron algunos cables y algunos tubos.$B$BHarlek tendrá que deberme todos estos favores. Lo estoy haciendo por él.$B$BLlévaselo, debería estar contento.",
+    ["D"] = "<Tansi Sparkfuse parpadea ante el conductor de la válvula de pulverización.>$B$Bueno, eso no fue demasiado difícil, todo lo que necesitó fueron algunos cables y algunos tubos.$B$BHarlek tendrá que deberme todos estos favores. Lo estoy haciendo por él.$B$BLlévaselo, debería estar contento.",
     ["O"] = "Devuelve el conductor de válvula de pulverización fijo a Harlek Vaultshield en Bael Hardul en Stonetalon Mountains.",
     ["T"] = "The Fixed Sputtervalve Conductor",
   },
@@ -4110,7 +4110,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Gorras Thorncrusher",
   },
   [40702] = {
-    ["D"] = "Mi nombre es Whitepeak, dirijo a este grupo de aspirantes a exploradores hasta Bael Hardul después de escuchar historias de que aún estaba en pie. Para mi sorpresa, fue viable. Hubo mucha limpieza, pero ahora que el trabajo está hecho, será una buena base de operaciones.$B$BSin embargo, hay un problema.$B$BLo último que esperaba era tener a Venture Co. en nuestra puerta, ese fue un detalle que no escuchamos, y ahora que estamos listos, siguen trasladando más y más personas a Windshear Crag. Si alguna vez queremos tener la oportunidad de explorar, hacerlo sin una protección constante, necesitaremos eliminar esta amenaza.$B$BBajo la colina está Windshear Crag, es allí donde opera Venture Co., baja y elimina sus amenaza, en mi nombre.",
+    ["D"] = "Mi nombre es Whitepeak, dirijo a este grupo de aspirantes a exploradores hasta Bael Hardul después de escuchar historias de que aún estaba en pie. Para mi sorpresa, fue viable. Hubo mucha limpieza, pero ahora que el trabajo está hecho, será una buena base de operaciones.$B$BSin embargo, hay un problema.$B$BLo último que esperaba era tener a Venture Co. en nuestra puerta, ese fue un detalle que no escuchamos, y ahora que estamos listos, siguen trasladando más y más personas a Windshear Crag. Si alguna vez queremos tener la oportunidad de explorar, hacerlo sin una protección constante, necesitaremos eliminar esta amenaza.$B$Bajo la colina está Windshear Crag, es allí donde opera Venture Co., baja y elimina sus amenaza, en mi nombre.",
     ["O"] = "Mata a 8 operadores de Venture Co., 14 madereros de Venture Co. y 8 deforestadores de Venture Co. en Bael Hardul, en las montañas Stonetalon.",
     ["T"] = "Exploring in Peace",
   },
@@ -4160,7 +4160,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Major Magical Fortifications",
   },
   [40712] = {
-    ["D"] = "Bien conocido, tú que vagas por las tierras de mis antepasados. Como último guardián de este templo, te doy la bienvenida al templo de Zeth.$B$BBHe aquí la llama de los reyes, extraño. Míralo, tal vez te hable del futuro como me habló de este día, porque fui uno de los pocos que mantuvo la cordura solo para esperar a que llegara este día. Entiéndeme, extraño, no sé tu nombre, e incluso con la vista más allá de la vista, ante mí está exactamente lo que ves cuando me miras. Una figura fantasmal sin forma alguna y, sin embargo, el fuego habló hace muchas lunas. Ya sea por la mano del destino o por simple coincidencia, fuiste enviado para ayudarme, y lo harás, ya sea por la bondad de tu corazón o por simple curiosidad.$B$BLa maldición de Zetharia todavía persigue a Cortan, mientras hablamos, los espíritus se están poniendo listos para atacarte, ya que no te ven como eres, sino como el recuerdo de un enemigo que pasó hace mucho tiempo. Si vamos a continuar nuestra discusión, debe asegurarse de descartarlos.",
+    ["D"] = "Bien conocido, tú que vagas por las tierras de mis antepasados. Como último guardián de este templo, te doy la bienvenida al templo de Zeth.$B$BHe aquí la llama de los reyes, extraño. Míralo, tal vez te hable del futuro como me habló de este día, porque fui uno de los pocos que mantuvo la cordura solo para esperar a que llegara este día. Entiéndeme, extraño, no sé tu nombre, e incluso con la vista más allá de la vista, ante mí está exactamente lo que ves cuando me miras. Una figura fantasmal sin forma alguna y, sin embargo, el fuego habló hace muchas lunas. Ya sea por la mano del destino o por simple coincidencia, fuiste enviado para ayudarme, y lo harás, ya sea por la bondad de tu corazón o por simple curiosidad.$B$BLa maldición de Zetharia todavía persigue a Cortan, mientras hablamos, los espíritus se están poniendo listos para atacarte, ya que no te ven como eres, sino como el recuerdo de un enemigo que pasó hace mucho tiempo. Si vamos a continuar nuestra discusión, debe asegurarse de descartarlos.",
     ["O"] = "Reúne 3 polvos antiguos para el guardián olvidado en las ruinas de Zeth en Badlands.",
     ["T"] = "In Your Own Defense",
   },
@@ -4200,7 +4200,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Exquisite Goblin Engineering",
   },
   [40720] = {
-    ["D"] = "Entonces... Parece que nuestro sólido razonamiento resultó incorrecto.$B$BEsto a veces es bastante común en la ingeniería goblin, por mucho que odiemos admitirlo. De cualquier manera, tal vez esto ayudó a aclarar algunas cosas para la investigación.$B$BSi yo fuera un duende del juego, seguramente habría apostado por esos malditos dragones. ¡Es bueno que no sea tan tonto como para apostar! $B$BBLleva esta información a Kagoro, ¡seguro que le resultará útil!",
+    ["D"] = "Entonces... Parece que nuestro sólido razonamiento resultó incorrecto.$B$BEsto a veces es bastante común en la ingeniería goblin, por mucho que odiemos admitirlo. De cualquier manera, tal vez esto ayudó a aclarar algunas cosas para la investigación.$B$BSi yo fuera un duende del juego, seguramente habría apostado por esos malditos dragones. ¡Es bueno que no sea tan tonto como para apostar! $B$BLleva esta información a Kagoro, ¡seguro que le resultará útil!",
     ["O"] = "Lleva la información a Kagoro cerca de Shady Rest Inn en Dustwallow Marsh.",
     ["T"] = "Conclusive Evidence",
   },
@@ -4525,12 +4525,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Heavy Earthen Cores",
   },
   [40789] = {
-    ["D"] = "Ha sido un viaje largo y agotador. He peleado muchas batallas y vencido a muchos enemigos.$B$BBantes de dejar mi hogar, anhelaba contemplar la Catedral de la Luz después de su restauración. En cambio, me dijeron que me enviarían aquí, en lugar de a la embajada en Ventormenta. No mentiré al decir que me duele, porque temo no verlo al final de todo esto. Sin embargo, $B$BI todavía quisiera rendir homenaje a la Catedral, y te pido, amigo, que lo hagas. por mí.$B$BBTrae este tomo que contiene todas mis hazañas a la Catedral de Ventormenta y deja que quede registrado, no sea que caiga sin ser recordado en este rincón abandonado del mundo.",
+    ["D"] = "Ha sido un viaje largo y agotador. He peleado muchas batallas y vencido a muchos enemigos.$B$Bantes de dejar mi hogar, anhelaba contemplar la Catedral de la Luz después de su restauración. En cambio, me dijeron que me enviarían aquí, en lugar de a la embajada en Ventormenta. No mentiré al decir que me duele, porque temo no verlo al final de todo esto. Sin embargo, $B$BI todavía quisiera rendir homenaje a la Catedral, y te pido, amigo, que lo hagas. por mí.$B$BTrae este tomo que contiene todas mis hazañas a la Catedral de Ventormenta y deja que quede registrado, no sea que caiga sin ser recordado en este rincón abandonado del mundo.",
     ["O"] = "Lleva las hazañas de Sir Danuvis a la Catedral de la Luz en Ventormenta.",
     ["T"] = "The Deeds of Sir Danuvis",
   },
   [40790] = {
-    ["D"] = "¡Tú ahí, RECLUTA! $B$BI no te veo usando tu tabardo, qué espera un segundo. ¿Qué estás haciendo aquí $r, no ves que los habitantes de Kul Tiras estamos en guerra?$B$BBah, ¿por qué no eres útil? Vamos a necesitar todas las provisiones que podamos. tal vez puedas encontrar algo de comida de sobra para alimentar algunas barrigas durante algunas noches más.$B$BCada día que mantenemos a la Horda a raya, es otro día en el que podrás dormir seguro por la noche. ¿Qué tal un poco de carne de Kodo de las bestias de Los Baldíos? La horda utiliza a las bestias como mulas de carga, bestias de combate y las cría para alimentarse; sus pesados ​​flancos deberían servir para alimentar a unos cuantos escuadrones.",
+    ["D"] = "¡Tú ahí, RECLUTA! $B$BI no te veo usando tu tabardo, qué espera un segundo. ¿Qué estás haciendo aquí $r, no ves que los habitantes de Kul Tiras estamos en guerra?$B$Bah, ¿por qué no eres útil? Vamos a necesitar todas las provisiones que podamos. tal vez puedas encontrar algo de comida de sobra para alimentar algunas barrigas durante algunas noches más.$B$BCada día que mantenemos a la Horda a raya, es otro día en el que podrás dormir seguro por la noche. ¿Qué tal un poco de carne de Kodo de las bestias de Los Baldíos? La horda utiliza a las bestias como mulas de carga, bestias de combate y las cría para alimentarse; sus pesados ​​flancos deberían servir para alimentar a unos cuantos escuadrones.",
     ["O"] = "Recoge 5 carne de Kodo de Kodo salvaje en Los Baldíos para Deckmaster Darkhollow en Anchor\'s Edge en Los Baldíos.",
     ["T"] = "Kul Tiran Provisions: Food",
   },
@@ -4580,7 +4580,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Words of Wisdom",
   },
   [40800] = {
-    ["D"] = "Así es, ¡soy un Moonfeather! Tengo un don, sólo necesito aprender a utilizarlo. Shan\'do también lo dijo, ¡y honraré su legado! $B$BSharptalon es un poderoso patriarca hipogrifo que he visto vagando por los claros del bosque al atardecer, aunque nunca nos habíamos visto antes. Una criatura tan majestuosa es sin duda una de las favoritas de Elune. Por favor, toma a la más joven de las crías y dirígete al suroeste de aquí. Evita a la Horda lo mejor que puedas y protege al niño con tu vida.$B$BAl sur del monstruoso campamento de los orcos encontrarás esos hermosos claros donde nuestras hermanas vigilan, esperando en los árboles para tender una emboscada a los invasores. Se informa que Sharptalon ayuda en la defensa de Vallefresno cerca de allí.$B$BBLleva al pequeño y transmítele el apellido de Moonfeather. Espero que su respuesta sea favorable.",
+    ["D"] = "Así es, ¡soy un Moonfeather! Tengo un don, sólo necesito aprender a utilizarlo. Shan\'do también lo dijo, ¡y honraré su legado! $B$BSharptalon es un poderoso patriarca hipogrifo que he visto vagando por los claros del bosque al atardecer, aunque nunca nos habíamos visto antes. Una criatura tan majestuosa es sin duda una de las favoritas de Elune. Por favor, toma a la más joven de las crías y dirígete al suroeste de aquí. Evita a la Horda lo mejor que puedas y protege al niño con tu vida.$B$BAl sur del monstruoso campamento de los orcos encontrarás esos hermosos claros donde nuestras hermanas vigilan, esperando en los árboles para tender una emboscada a los invasores. Se informa que Sharptalon ayuda en la defensa de Vallefresno cerca de allí.$B$BLleva al pequeño y transmítele el apellido de Moonfeather. Espero que su respuesta sea favorable.",
     ["O"] = "Encuentra a Sharptalon y comunícate con él en el bosque de Vallefresno, luego regresa con Alleana Pluma Lunar.",
     ["T"] = "The Family Name",
   },
@@ -4765,7 +4765,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Report to Livia Strongarm",
   },
   [40847] = {
-    ["D"] = "Nuestra inteligencia en esta región es pobre. Sabíamos que Gilneas era una nación aislacionista, pero no esperábamos que se encontrara en un estado tan miserable. $B$BBal estar entre los vivos, no tenemos problemas para mezclarnos y realizar espionaje. Una de las nuestras ha asumido el nombre de \"Greta Longpike\", quien en su última misiva informó que se había infiltrado en un asentamiento llamado Greyshire.$B$BBúscala y dile \"Dama de la noche, oro en la boca al amanecer\". Esa es la frase clave. Ella te dará un informe, cuyos detalles son de vital importancia, que deberás traerme.",
+    ["D"] = "Nuestra inteligencia en esta región es pobre. Sabíamos que Gilneas era una nación aislacionista, pero no esperábamos que se encontrara en un estado tan miserable. $B$Bal estar entre los vivos, no tenemos problemas para mezclarnos y realizar espionaje. Una de las nuestras ha asumido el nombre de \"Greta Longpike\", quien en su última misiva informó que se había infiltrado en un asentamiento llamado Greyshire.$B$Búscala y dile \"Dama de la noche, oro en la boca al amanecer\". Esa es la frase clave. Ella te dará un informe, cuyos detalles son de vital importancia, que deberás traerme.",
     ["O"] = "Viaja a las Ruinas de Greyshire, localiza a Greta Longpike y adquiere el Informe Sellado de Livia Strongarm en el Campamento de Blackthorn en Gilneas.",
     ["T"] = "Rendezvous with the Infiltrator",
   },
@@ -4835,7 +4835,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Dawnstone Coupler",
   },
   [40861] = {
-    ["D"] = "La destrucción de Gnomeregan nos hizo retroceder en nuestra tecnología de varias maneras. Gran parte de nuestro trabajo se perdió en un abrir y cerrar de ojos.$B$BBásicamente trabajamos a ciegas. Si alguna vez queremos lograr un progreso real aquí en esta instalación, entonces necesitaremos un elemento muy raro y de gran importancia.$B$BEl regulador de alta energía es algo que se creó para gestionar oleadas de energía intensa. Sin él, es imposible canalizar cantidades excesivas de energía hacia donde la necesitamos, ¡que es exactamente lo que estamos tratando de hacer aquí!$B$BActualmente, esta instalación está funcionando a baja potencia para evitar una anulación o sobretensión en nuestros sistemas. . Pero podemos trabajar más rápido, MUCHO más rápido. Necesito que encuentres el esquema del Regulador de Alta Energía que se perdió en Gnomeregan. Realmente podemos utilizar esta instalación en la forma en que fue diseñada si podemos conseguirla.",
+    ["D"] = "La destrucción de Gnomeregan nos hizo retroceder en nuestra tecnología de varias maneras. Gran parte de nuestro trabajo se perdió en un abrir y cerrar de ojos.$B$Básicamente trabajamos a ciegas. Si alguna vez queremos lograr un progreso real aquí en esta instalación, entonces necesitaremos un elemento muy raro y de gran importancia.$B$BEl regulador de alta energía es algo que se creó para gestionar oleadas de energía intensa. Sin él, es imposible canalizar cantidades excesivas de energía hacia donde la necesitamos, ¡que es exactamente lo que estamos tratando de hacer aquí!$B$BActualmente, esta instalación está funcionando a baja potencia para evitar una anulación o sobretensión en nuestros sistemas. . Pero podemos trabajar más rápido, MUCHO más rápido. Necesito que encuentres el esquema del Regulador de Alta Energía que se perdió en Gnomeregan. Realmente podemos utilizar esta instalación en la forma en que fue diseñada si podemos conseguirla.",
     ["O"] = "Encuentra el esquema: regulador de alta energía dentro de Gnomeregan y llévaselo a Weezan Littlegear en las instalaciones de recuperación de Gnomeregan en Dun Morogh.",
     ["T"] = "High Energy Regulator",
   },
@@ -4845,7 +4845,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Malfunction Mayhem",
   },
   [40863] = {
-    ["D"] = "Saludos, aventurero. Soy el padre Gavin, un humilde sacerdote de Argent Dawn. Vengo a vosotros con una petición que pesa mucho sobre mi alma. Recientemente fui emboscado en Dun Morogh y los violentos Rockjaw Troggs me arrebataron mi preciada posesión, \"La misericordia de la humildad\", un antiguo texto religioso. Temo por su seguridad, ya que se sabe que estas brutales criaturas destruyen todo lo que no pueden usar.$B$BI te imploro que me ayudes a recuperar esta valiosa reliquia. Estoy seguro de que los Troggs cerca del Complejo Ironband al sureste son los que lo poseen. Mátalos y recupera el texto antes de que se dañe sin posibilidad de reparación.$B$BBTráeme este libro y me aseguraré de que recibas una recompensa justa por tu servicio a la Luz.",
+    ["D"] = "Saludos, aventurero. Soy el padre Gavin, un humilde sacerdote de Argent Dawn. Vengo a vosotros con una petición que pesa mucho sobre mi alma. Recientemente fui emboscado en Dun Morogh y los violentos Rockjaw Troggs me arrebataron mi preciada posesión, \"La misericordia de la humildad\", un antiguo texto religioso. Temo por su seguridad, ya que se sabe que estas brutales criaturas destruyen todo lo que no pueden usar.$B$BI te imploro que me ayudes a recuperar esta valiosa reliquia. Estoy seguro de que los Troggs cerca del Complejo Ironband al sureste son los que lo poseen. Mátalos y recupera el texto antes de que se dañe sin posibilidad de reparación.$B$BTráeme este libro y me aseguraré de que recibas una recompensa justa por tu servicio a la Luz.",
     ["O"] = "Recupera la misericordia de la humildad de los troggs Rockjaw cerca del complejo de Ironband para el padre Gavin en Dun Morogh.",
     ["T"] = "The Mercy of Humility",
   },
@@ -4985,7 +4985,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Corruption of the Barkskin Tribe",
   },
   [40892] = {
-    ["D"] = "Los Barkskin Ursa eran un grupo de los guerreros más leales y temibles de la Tribu. Son ellos quienes gravitaron hacia Growlheart y cumplieron sus órdenes.$B$BLa purga provocó muchas muertes y mucho sufrimiento. Todo por las acciones de la Osa, que llevó a cabo los deseos de su amo sin preocuparse por las repercusiones.$B$BI te pide que viajes a Barkskin Village y caces a aquellos que asesinaron sin sentido. Puedes encontrar Barkskin Village muy al sur, cerca del pie de Hyjal.$B$BBTráeme cuatro Ursa Battlehammers como prueba de tu hazaña y serás recompensado.",
+    ["D"] = "Los Barkskin Ursa eran un grupo de los guerreros más leales y temibles de la Tribu. Son ellos quienes gravitaron hacia Growlheart y cumplieron sus órdenes.$B$BLa purga provocó muchas muertes y mucho sufrimiento. Todo por las acciones de la Osa, que llevó a cabo los deseos de su amo sin preocuparse por las repercusiones.$B$BI te pide que viajes a Barkskin Village y caces a aquellos que asesinaron sin sentido. Puedes encontrar Barkskin Village muy al sur, cerca del pie de Hyjal.$B$BTráeme cuatro Ursa Battlehammers como prueba de tu hazaña y serás recompensado.",
     ["O"] = "Reúne 4 martillos de batalla Ursa de Barkskin Ursa para el anciano Barkmaw en Nordassil Glade en Hyjal.",
     ["T"] = "Barkskin Ursa",
   },
@@ -5025,17 +5025,17 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Crafting Dreamthread",
   },
   [40902] = {
-    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear el Dreamthread Kilt. Aunque necesito alguna prueba de tu servicio.$B$BBTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
+    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear el Dreamthread Kilt. Aunque necesito alguna prueba de tu servicio.$B$BTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
     ["O"] = "Reúne 75 fragmentos de sueños brillantes para Jancel Stardust en Nordanaar en Hyjal.",
     ["T"] = "Dreamthread Kilt",
   },
   [40903] = {
-    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear los Dreamthread Bracers. Aunque necesito alguna prueba de tu servicio.$B$BBTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
+    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear los Dreamthread Bracers. Aunque necesito alguna prueba de tu servicio.$B$BTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
     ["O"] = "Reúne 75 fragmentos de sueños brillantes para Jancel Stardust en Nordanaar en Hyjal.",
     ["T"] = "Dreamthread Bracers",
   },
   [40904] = {
-    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear los guantes Dreamthread. Aunque necesito alguna prueba de tu servicio.$B$BBTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
+    ["D"] = "Tranquilidad. Eso es lo que se requiere para trabajar en Dreamthread. Bajo Nordrassil, a menudo es bastante fácil perderse en un estado de ensueño. Puedo ofrecerte un patrón para crear los guantes Dreamthread. Aunque necesito alguna prueba de tu servicio.$B$BTráeme setenta y cinco Bright Dream Shards y serás recompensado.",
     ["O"] = "Reúne 75 fragmentos de sueños brillantes para Jancel Stardust en Nordanaar en Hyjal.",
     ["T"] = "Dreamthread Gloves",
   },
@@ -5095,7 +5095,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Mysterious Errand",
   },
   [40916] = {
-    ["D"] = "¿Quién te habló de eso? ¿Mmm? ¿No hay respuesta?$B$BBien. De todos modos, el Paquete 52 se perdió. Faltando directamente de la bóveda, como si simplemente se hubiera esfumado. $B$BI le pagó a un tipo para que lo rastreara, y terminó en esa tumba de centauro en Desolace, ¿Maradon o algo así? Tu suposición es tan buena como la mía en cuanto a cómo llegó allí. $B$B Supongo que si lo quieres, será mejor que vayas a buscarlo.",
+    ["D"] = "¿Quién te habló de eso? ¿Mmm? ¿No hay respuesta?$B$Bien. De todos modos, el Paquete 52 se perdió. Faltando directamente de la bóveda, como si simplemente se hubiera esfumado. $B$BI le pagó a un tipo para que lo rastreara, y terminó en esa tumba de centauro en Desolace, ¿Maradon o algo así? Tu suposición es tan buena como la mía en cuanto a cómo llegó allí. $B$B Supongo que si lo quieres, será mejor que vayas a buscarlo.",
     ["O"] = "Consigue el paquete número 52 y llévalo al buzón misterioso.",
     ["T"] = "The 52nd Package",
   },
@@ -5220,7 +5220,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Font of Arcana",
   },
   [40941] = {
-    ["D"] = "Has hecho bien en adquirir esta Fuente de los Arcanos. Sin embargo, antes de que podamos continuar, necesito materiales de naturaleza mágica. La Fuente de los Arcanos no se puede manejar de forma natural sin magia dracónica y, por lo tanto, debo canalizar materiales encantadores con mi propia magia para alimentar la Fuente.$B$BBTráeme un Gran Fragmento Resplandeciente, que es un material encantador común, y podremos continuar. nuestro trabajo.",
+    ["D"] = "Has hecho bien en adquirir esta Fuente de los Arcanos. Sin embargo, antes de que podamos continuar, necesito materiales de naturaleza mágica. La Fuente de los Arcanos no se puede manejar de forma natural sin magia dracónica y, por lo tanto, debo canalizar materiales encantadores con mi propia magia para alimentar la Fuente.$B$BTráeme un Gran Fragmento Resplandeciente, que es un material encantador común, y podremos continuar. nuestro trabajo.",
     ["O"] = "Adquiere un fragmento brillante grande para la fuente de los arcanos del mago Orelius en Ravenshire en Gilneas.",
     ["T"] = "Magical Presence",
   },
@@ -5245,7 +5245,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Snarlclaw",
   },
   [40946] = {
-    ["D"] = "¿Qué, quieres ayudarnos?$B$B<Una mirada sarcástica cruza el rostro de Vorren.>$B$BSi realmente quieres hacer algo aquí en Ravenshire, puedes deshacerte de esos nagas que se han estado reuniendo. en las playas del sur. Desde el año pasado, empezaron a aparecer en masa. ¡Mataron a muchos pescadores! $B$BBTráeme dieciséis de sus escamas como prueba. Puedes encontrarlos a lo largo de las costas del sur de Gilneas. Haz eso y me traerás algo de paz en este mundo bastardo.",
+    ["D"] = "¿Qué, quieres ayudarnos?$B$B<Una mirada sarcástica cruza el rostro de Vorren.>$B$BSi realmente quieres hacer algo aquí en Ravenshire, puedes deshacerte de esos nagas que se han estado reuniendo. en las playas del sur. Desde el año pasado, empezaron a aparecer en masa. ¡Mataron a muchos pescadores! $B$BTráeme dieciséis de sus escamas como prueba. Puedes encontrarlos a lo largo de las costas del sur de Gilneas. Haz eso y me traerás algo de paz en este mundo bastardo.",
     ["O"] = "Reúne 16 escamas de Spitecrest de los Spitecrest Naga a lo largo de la costa sur de Gilneas para Dockwatcher Vorren en Ravenshire en Gilneas.",
     ["T"] = "Spitecrest Incursions",
   },
@@ -5325,7 +5325,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Into the Dream V",
   },
   [40962] = {
-    ["D"] = "Su paso seguro hacia el Sueño es imposible mientras Latharius intenta cortar el Camino del Sueño. Si continúas, correrás el riesgo de quedar atrapado y sucumbir a las garras de la Pesadilla.$B$BBusca a Larannikus y pon fin a su sufrimiento. Como confirmación de este acto, recupera una piedra preciosa que le otorgó Ysera. Probablemente todavía esté en posesión de él, una burla de Nightmare de nuestro legado.$B$BEncontrarás a Larannikus en algún lugar dentro de Hyjal, acaba con él.",
+    ["D"] = "Su paso seguro hacia el Sueño es imposible mientras Latharius intenta cortar el Camino del Sueño. Si continúas, correrás el riesgo de quedar atrapado y sucumbir a las garras de la Pesadilla.$B$Busca a Larannikus y pon fin a su sufrimiento. Como confirmación de este acto, recupera una piedra preciosa que le otorgó Ysera. Probablemente todavía esté en posesión de él, una burla de Nightmare de nuestro legado.$B$BEncontrarás a Larannikus en algún lugar dentro de Hyjal, acaba con él.",
     ["O"] = "Mata a Larannikus y recupera la Carga de Ysera para Ralathius en Nordanaar en Hyjal.",
     ["T"] = "Into the Dream VI",
   },
@@ -5385,12 +5385,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Mass Harmonization",
   },
   [40974] = {
-    ["D"] = "En vida fui un soldado, leal a la causa Greymane. Participé en la batalla de Greyshire y disfruté de la gran victoria sobre el flagelo.$B$BAunque me consideraba un gran guerrero, fui emboscado por una gran bestia junto con mis compañeros. Los grandes huargen nos separaron y, aunque me defendí, fui derribado.$B$BAhora estoy aquí, para trabajar en los incesantes recuerdos de mis fracasos. Quiero vengarme de ese huargen. Se llama Snarlclaw. Se sabe que acecha en lo profundo de una cueva al oeste de aquí, cerca del campamento Bloodclaw.$B$BBTráeme su pata y serás recompensado.",
+    ["D"] = "En vida fui un soldado, leal a la causa Greymane. Participé en la batalla de Greyshire y disfruté de la gran victoria sobre el flagelo.$B$BAunque me consideraba un gran guerrero, fui emboscado por una gran bestia junto con mis compañeros. Los grandes huargen nos separaron y, aunque me defendí, fui derribado.$B$BAhora estoy aquí, para trabajar en los incesantes recuerdos de mis fracasos. Quiero vengarme de ese huargen. Se llama Snarlclaw. Se sabe que acecha en lo profundo de una cueva al oeste de aquí, cerca del campamento Bloodclaw.$B$BTráeme su pata y serás recompensado.",
     ["O"] = "Llévale la garra de Snarlclaw a Dominic Larson en Stillward Church en Gilneas.",
     ["T"] = "Revenge After Death",
   },
   [40975] = {
-    ["D"] = "<El fantasma comienza a convertirse en realidad, se escucha un aullido de viento mientras comienza a hablar.>$B$BIn vida mi nombre era Karl Glaymore, mi familia era una de las más prominentes dentro de Gilneas. Ahora no somos nada, todos estamos alejados del mundo de los vivos.$B$BFuimos juzgados por conspiración, todos nosotros, por afirmaciones que no tenían ningún mérito. Mis hijos fueron masacrados uno por uno por ese cruel juez Sutherland. Sus juicios pasan con cada golpe del mazo.$B$BEstábamos destinados a ser ejemplos, y ahora estoy aquí para rondar esta existencia, para enconarme de ira...$B$BBtráeme paz. Encuentra al juez Sutherland en Gilneas City y acaba con su vida. Lo sabré cuando la escritura esté hecha.",
+    ["D"] = "<El fantasma comienza a convertirse en realidad, se escucha un aullido de viento mientras comienza a hablar.>$B$BIn vida mi nombre era Karl Glaymore, mi familia era una de las más prominentes dentro de Gilneas. Ahora no somos nada, todos estamos alejados del mundo de los vivos.$B$BFuimos juzgados por conspiración, todos nosotros, por afirmaciones que no tenían ningún mérito. Mis hijos fueron masacrados uno por uno por ese cruel juez Sutherland. Sus juicios pasan con cada golpe del mazo.$B$BEstábamos destinados a ser ejemplos, y ahora estoy aquí para rondar esta existencia, para enconarme de ira...$B$Btráeme paz. Encuentra al juez Sutherland en Gilneas City y acaba con su vida. Lo sabré cuando la escritura esté hecha.",
     ["O"] = "Mata al juez Sutherland en la ciudad de Gilneas para el fantasma enojado en Glaymore Stead en Gilneas.",
     ["T"] = "The Judge and the Phantom",
   },
@@ -5415,7 +5415,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ebonmere Affairs",
   },
   [40980] = {
-    ["D"] = "Puede que mi hermano Franklin Blackheart estuviera vivo, pero era mi hermano. Asumió la causa de luchar con la rebelión de Ravenwood. Fue aquí donde encontró su destino, emboscado por Greymane. No se salvó ni una sola persona y todo el campamento fue quemado hasta los cimientos.$B$BVer sus restos retorcidos me dolió como ninguna otra cosa lo había hecho. Puedo sentirlo en lo más profundo, la tristeza de su fallecimiento aún persiste. Quiero venganza sobre aquellos que han hecho esto, matar a los Greymane que habitan en Gilneas. Se pueden encontrar al este, justo al norte de Ravenshire, o al oeste de aquí, en un lugar llamado Dryrock Valley.$B$BBTráeme cuarenta sellos de Cringris de cualquiera que jure lealtad a su causa.",
+    ["D"] = "Puede que mi hermano Franklin Blackheart estuviera vivo, pero era mi hermano. Asumió la causa de luchar con la rebelión de Ravenwood. Fue aquí donde encontró su destino, emboscado por Greymane. No se salvó ni una sola persona y todo el campamento fue quemado hasta los cimientos.$B$BVer sus restos retorcidos me dolió como ninguna otra cosa lo había hecho. Puedo sentirlo en lo más profundo, la tristeza de su fallecimiento aún persiste. Quiero venganza sobre aquellos que han hecho esto, matar a los Greymane que habitan en Gilneas. Se pueden encontrar al este, justo al norte de Ravenshire, o al oeste de aquí, en un lugar llamado Dryrock Valley.$B$BTráeme cuarenta sellos de Cringris de cualquiera que jure lealtad a su causa.",
     ["O"] = "Mata a los leales a la causa Cringris y reúne entre ellos 40 sellos Cringris para Harrison Blackheart en Gilneas.",
     ["T"] = "Greymane Hatred",
   },
@@ -5545,7 +5545,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Nordanaar Herbal Tea",
   },
   [41006] = {
-    ["D"] = "Yo, Slumbnaz, soy un maestro de la magia engañosa.$B$BMis mis poderes dracónicos pueden sintonizarse para transformar mi apariencia y la de quienes me rodean, para doblar la realidad visual misma de Azeroth. Si deseas probar esa magia, puedo recompensarte por tus esfuerzos para ayudar a los míos.$B$BBTráeme veinticinco Bright Dream Shards y te ofreceré esta ilusión.",
+    ["D"] = "Yo, Slumbnaz, soy un maestro de la magia engañosa.$B$BMis mis poderes dracónicos pueden sintonizarse para transformar mi apariencia y la de quienes me rodean, para doblar la realidad visual misma de Azeroth. Si deseas probar esa magia, puedo recompensarte por tus esfuerzos para ayudar a los míos.$B$BTráeme veinticinco Bright Dream Shards y te ofreceré esta ilusión.",
     ["O"] = "Reúne 25 fragmentos de sueños brillantes para Slumbnaz en Nordanaar en Hyjal.",
     ["T"] = "Illusion: Green Dragonkin",
   },
@@ -5635,7 +5635,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Sample for Glanthas",
   },
   [41024] = {
-    ["D"] = "Un druida llamado Canos Clearwood se encargó de investigar tales monstruosidades dentro de Azshara hace algunos años. Sin embargo, su investigación lo ha llevado a un viaje al otrora reino humano de las Tierras de la Peste del Este.$B$BPor lo que he oído, actualmente está investigando allí para encontrar un vínculo entre los monstruos parecidos a lodo.$B$BBtráele esto. muestra, y tal vez ambos puedan aprender qué está causando este nuevo fenómeno aquí en Hyjal.",
+    ["D"] = "Un druida llamado Canos Clearwood se encargó de investigar tales monstruosidades dentro de Azshara hace algunos años. Sin embargo, su investigación lo ha llevado a un viaje al otrora reino humano de las Tierras de la Peste del Este.$B$BPor lo que he oído, actualmente está investigando allí para encontrar un vínculo entre los monstruos parecidos a lodo.$B$Btráele esto. muestra, y tal vez ambos puedan aprender qué está causando este nuevo fenómeno aquí en Hyjal.",
     ["O"] = "Lleva la muestra de lodo a Canos Clearwood en las Tierras de la Peste del Este.",
     ["T"] = "Studying Manifestations",
   },
@@ -5750,7 +5750,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Back to Thalanaar",
   },
   [41047] = {
-    ["D"] = "Has demostrado ser un aliado valioso y por eso te revelaré la verdad. Los artefactos que hemos reunido no son más que un fragmento de un plan mayor para restaurar el equilibrio del mundo.$B$BZalmos poseía una habilidad única para regenerarse con una potencia incomparable. Aprovechando su esencia, podemos generar una fuerza curativa que puede reparar las tierras corruptas de Frondavil y revitalizar el moribundo Árbol del Mundo.$B$BSin embargo, los artefactos por sí solos no son suficientes para realizar esta tarea. Requerimos la guía de Cenerron. Era un druida que una vez estudió con Zalmos. Aunque el paso del tiempo ha pasado factura a Cenerron, creemos que todavía deambula por los antiguos bosques de Feralas. Su conexión con el Dios Salvaje lo convierte en la clave para desbloquear el potencial de estos artefactos.$B$BBusca a Cenerron en medio del desierto de Feralas. Ten cuidado, porque ahora es un salvaje, perdido en sus instintos primarios. Si puedes ganarte su confianza, poseerá el conocimiento para amplificar el poder de estos artefactos.",
+    ["D"] = "Has demostrado ser un aliado valioso y por eso te revelaré la verdad. Los artefactos que hemos reunido no son más que un fragmento de un plan mayor para restaurar el equilibrio del mundo.$B$BZalmos poseía una habilidad única para regenerarse con una potencia incomparable. Aprovechando su esencia, podemos generar una fuerza curativa que puede reparar las tierras corruptas de Frondavil y revitalizar el moribundo Árbol del Mundo.$B$BSin embargo, los artefactos por sí solos no son suficientes para realizar esta tarea. Requerimos la guía de Cenerron. Era un druida que una vez estudió con Zalmos. Aunque el paso del tiempo ha pasado factura a Cenerron, creemos que todavía deambula por los antiguos bosques de Feralas. Su conexión con el Dios Salvaje lo convierte en la clave para desbloquear el potencial de estos artefactos.$B$Busca a Cenerron en medio del desierto de Feralas. Ten cuidado, porque ahora es un salvaje, perdido en sus instintos primarios. Si puedes ganarte su confianza, poseerá el conocimiento para amplificar el poder de estos artefactos.",
     ["O"] = "Encuentra al feralkin en Feralas.",
     ["T"] = "Feralkin of Feralas",
   },
@@ -5885,7 +5885,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Special Task",
   },
   [41074] = {
-    ["D"] = "Permíteme un momento para recomponerme.$B$B<El druida hace una pausa, luchando por concentrarse, sus heridas claramente lo afectan.>$B$BNo prestes atención a mis heridas, sanarán con el tiempo. Escuche atentamente. Los fúrbolgs que me atacaron no sólo me causaron daño, sino que también me robaron mis preciados billetes. Debo recuperarlos, pero mi condición me lo impide en este momento. Es imperativo que Yohan permanezca inconsciente de lo que ha ocurrido aquí. ¿Lo entiendes? No le reveles que he perdido mis notas.$B$BBusca a los furbolgs que llevaron a cabo este ataque. Los he visto huir hacia el este y es posible que todavía estén acampados en la zona. Una vez que recuperes mis notas, entrégaselas a Yohan sin demora. Debo insistir en que no los leas, ya que contienen conocimiento que está reservado sólo para nuestro pedido.$B$BSi Yohan pregunta por mí, infórmale que regresaré pronto, pero todavía tengo algunas investigaciones que terminar. Confío en tu discreción.",
+    ["D"] = "Permíteme un momento para recomponerme.$B$B<El druida hace una pausa, luchando por concentrarse, sus heridas claramente lo afectan.>$B$BNo prestes atención a mis heridas, sanarán con el tiempo. Escuche atentamente. Los fúrbolgs que me atacaron no sólo me causaron daño, sino que también me robaron mis preciados billetes. Debo recuperarlos, pero mi condición me lo impide en este momento. Es imperativo que Yohan permanezca inconsciente de lo que ha ocurrido aquí. ¿Lo entiendes? No le reveles que he perdido mis notas.$B$Busca a los furbolgs que llevaron a cabo este ataque. Los he visto huir hacia el este y es posible que todavía estén acampados en la zona. Una vez que recuperes mis notas, entrégaselas a Yohan sin demora. Debo insistir en que no los leas, ya que contienen conocimiento que está reservado sólo para nuestro pedido.$B$BSi Yohan pregunta por mí, infórmale que regresaré pronto, pero todavía tengo algunas investigaciones que terminar. Confío en tu discreción.",
     ["O"] = "Devuelve las notas de Marlonias a Yohan Wildwalker.",
     ["T"] = "The Stolen Notes",
   },
@@ -6255,7 +6255,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Pit-Iful Work",
   },
   [41155] = {
-    ["D"] = "Se sabe que nosotros, los duendes, utilizamos todo tipo de máquinas y artilugios para que nuestro trabajo sea lo más fácil y cómodo posible. ¡Basta pensar en el ingenioso invento de la trituradora! Ningún otro vehículo conducido por una persona puede talar árboles en un tiempo récord.$B$BBalnack Copperlight es el hombre encargado del mantenimiento de nuestra maquinaria de trabajo. Mientras estaba ocupado remediando este desastre en el lugar de trabajo, me dolía la cabeza por sus incesantes malas palabras y gritos afuera. Habla con él y ayúdalo con cualquier problema que tenga. ¡No me importa cómo lo hagas, solo haz que se calle y hazlo rápido!",
+    ["D"] = "Se sabe que nosotros, los duendes, utilizamos todo tipo de máquinas y artilugios para que nuestro trabajo sea lo más fácil y cómodo posible. ¡Basta pensar en el ingenioso invento de la trituradora! Ningún otro vehículo conducido por una persona puede talar árboles en un tiempo récord.$B$Balnack Copperlight es el hombre encargado del mantenimiento de nuestra maquinaria de trabajo. Mientras estaba ocupado remediando este desastre en el lugar de trabajo, me dolía la cabeza por sus incesantes malas palabras y gritos afuera. Habla con él y ayúdalo con cualquier problema que tenga. ¡No me importa cómo lo hagas, solo haz que se calle y hazlo rápido!",
     ["O"] = "Habla con Balnack Copperlight afuera.",
     ["T"] = "The Robotics Expert",
   },
@@ -6325,7 +6325,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Maritime Gumbo",
   },
   [41169] = {
-    ["D"] = "Echa un vistazo a esta isla. ¿Que ves? Exactamente. ¡Nos ves perdiendo dinero! Si te dijera cuáles son las razones por las que perdemos dinero, entonces nos quedaríamos aquí toda la noche. Y yo, por mi parte, no puedo permitirme eso y tú tampoco. Cuando Blastentom sugirió la monetización de esta isla, fui todo oídos, ¡pero esto NO es cien por ciento para lo que me inscribí!$B$BBlastentom espera un informe mío sobre el status quo por aquí. Definitivamente no quiero ser el blanco de su ira, afortunadamente tú, desafortunado cabrón, estás aquí para ir en mi lugar.$B$BToma esto y llévaselo a Nert Blastentom en Sparkwater Port en Durotar. Seguramente no querrás nadar todo el camino de regreso, así que date un paseo en el Taller de Gazzik. Prepárese para pagar, esto no es una organización benéfica por aquí. ¡Si no regresas mañana, presentaré un arresto y te ejecutaré por deserción!",
+    ["D"] = "Echa un vistazo a esta isla. ¿Que ves? Exactamente. ¡Nos ves perdiendo dinero! Si te dijera cuáles son las razones por las que perdemos dinero, entonces nos quedaríamos aquí toda la noche. Y yo, por mi parte, no puedo permitirme eso y tú tampoco. Cuando Blastentom sugirió la monetización de esta isla, fui todo oídos, ¡pero esto NO es cien por ciento para lo que me inscribí!$B$Blastentom espera un informe mío sobre el status quo por aquí. Definitivamente no quiero ser el blanco de su ira, afortunadamente tú, desafortunado cabrón, estás aquí para ir en mi lugar.$B$BToma esto y llévaselo a Nert Blastentom en Sparkwater Port en Durotar. Seguramente no querrás nadar todo el camino de regreso, así que date un paseo en el Taller de Gazzik. Prepárese para pagar, esto no es una organización benéfica por aquí. ¡Si no regresas mañana, presentaré un arresto y te ejecutaré por deserción!",
     ["O"] = "Paga un viaje al taller de Gazzik y lleva el informe comercial de Rustgate a Nert Blastentom en Sparkwater Port.",
     ["T"] = "Bearer Of Bad News",
   },
@@ -6360,7 +6360,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Mudpaw Mining Mishap",
   },
   [41176] = {
-    ["D"] = "Oye, amigo, ¿alguna vez has oído hablar de Shellcoin? Es una locura absoluta entre aquellos que quieren disparar alto en sus esfuerzos monetarios. ¡No hay otra manera de comenzar de manera rápida y confiable a convertirse en su propio príncipe comercial! El único problema al respecto es: ¡necesita un presupuesto incluso para comenzar a operar con Shellcoin! Y nadie, excepto los que están en la torre de Rustgate, tiene suficiente oro para eso.$B$BSin embargo, siendo yo el genio intelectual que soy, ¡ya se me ocurrió una solución brillante! ¡Las conchas que llegan a la costa en esta isla parecen casi idénticas a Shellcoin!$B$BBien, aquí está el argumento: tráeme suficientes conchas y las dividiremos al cincuenta por ciento. Puedes encontrarlos a lo largo de la playa justo al norte de aquí, o entre esos gnolls que parecen deambular por la costa y recolectarlos. ¡Una vez que tengas veinte, regresa conmigo y podremos hacernos ricos!",
+    ["D"] = "Oye, amigo, ¿alguna vez has oído hablar de Shellcoin? Es una locura absoluta entre aquellos que quieren disparar alto en sus esfuerzos monetarios. ¡No hay otra manera de comenzar de manera rápida y confiable a convertirse en su propio príncipe comercial! El único problema al respecto es: ¡necesita un presupuesto incluso para comenzar a operar con Shellcoin! Y nadie, excepto los que están en la torre de Rustgate, tiene suficiente oro para eso.$B$BSin embargo, siendo yo el genio intelectual que soy, ¡ya se me ocurrió una solución brillante! ¡Las conchas que llegan a la costa en esta isla parecen casi idénticas a Shellcoin!$B$Bien, aquí está el argumento: tráeme suficientes conchas y las dividiremos al cincuenta por ciento. Puedes encontrarlos a lo largo de la playa justo al norte de aquí, o entre esos gnolls que parecen deambular por la costa y recolectarlos. ¡Una vez que tengas veinte, regresa conmigo y podremos hacernos ricos!",
     ["O"] = "Reúne 20 conchas marinas de Blackstone a lo largo de la playa este para Schera Framesnap en el taller de Gazzik en la isla Blackstone.",
     ["T"] = "She Sells Sea Shells",
   },
@@ -6390,7 +6390,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Magical Maladies",
   },
   [41182] = {
-    ["D"] = "En realidad, es bastante simple. Con las energías dentro de estos orbes y tu canalización mágica, tendrás un escudo mágico suficientemente bueno contra sus ataques.$B$BBLo creas o no, pero los poderosos magos y hechiceros son capaces de conjurar y dominar su propio elemental de agua. Nuestro conocimiento y control sobre los elementos puede no ser tan profundo y espiritual como el de un chamán, pero eso no significa que no podamos hacer maravillas con ellos también. Entonces, ¿quién sabe? ¡Tal vez algún día entres a este lugar y te subas a uno de ellos!$B$BToma los orbes y dirígete hacia el norte, hasta el pozo de agua. Una vez allí, ¡prepárate y elimina al elemental de la propiedad del sindicato Durotar!",
+    ["D"] = "En realidad, es bastante simple. Con las energías dentro de estos orbes y tu canalización mágica, tendrás un escudo mágico suficientemente bueno contra sus ataques.$B$BLo creas o no, pero los poderosos magos y hechiceros son capaces de conjurar y dominar su propio elemental de agua. Nuestro conocimiento y control sobre los elementos puede no ser tan profundo y espiritual como el de un chamán, pero eso no significa que no podamos hacer maravillas con ellos también. Entonces, ¿quién sabe? ¡Tal vez algún día entres a este lugar y te subas a uno de ellos!$B$BToma los orbes y dirígete hacia el norte, hasta el pozo de agua. Una vez allí, ¡prepárate y elimina al elemental de la propiedad del sindicato Durotar!",
     ["O"] = "Apaga el elemental de agua que amenaza la bomba de agua y lleva sus grilletes a Wizette Icewhistle en Rustgate Ridge.",
     ["T"] = "Bubbling Baddies",
   },
@@ -6520,7 +6520,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Singed Letter",
   },
   [41208] = {
-    ["D"] = "Oye, ¿vuelvo, ya veo? ¿Listo para aprender más? Tu progreso es asombroso y creo que podrías ser capaz de realizar tu primer hechizo de invocación. Sin embargo, antes de enseñarte, ¿te importaría hacerme un favor? Tú me ayudas, yo te ayudo. Concepto fácil, en realidad.$B$BAl sur, a lo largo de la bahía, se encuentran los makrura, algunos más hostiles que otros. No muchos lo saben, pero sus corazones poseen grandes fortalezas por lo simples que son. Cuanto más agresivos son, más potencia ofrecen sus corazones.$B$BBTráeme seis de sus corazones palpitantes y pronto podrás convocar a tu propio esbirro personal.",
+    ["D"] = "Oye, ¿vuelvo, ya veo? ¿Listo para aprender más? Tu progreso es asombroso y creo que podrías ser capaz de realizar tu primer hechizo de invocación. Sin embargo, antes de enseñarte, ¿te importaría hacerme un favor? Tú me ayudas, yo te ayudo. Concepto fácil, en realidad.$B$BAl sur, a lo largo de la bahía, se encuentran los makrura, algunos más hostiles que otros. No muchos lo saben, pero sus corazones poseen grandes fortalezas por lo simples que son. Cuanto más agresivos son, más potencia ofrecen sus corazones.$B$BTráeme seis de sus corazones palpitantes y pronto podrás convocar a tu propio esbirro personal.",
     ["O"] = "Regresa con 6 corazones Beating Makrura a Amri Demondeal en Rustgate Ridge.",
     ["T"] = "A Lesson To Take To Heart",
   },
@@ -6710,7 +6710,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "All Along the Farstride",
   },
   [41246] = {
-    ["D"] = "Hay algo que no permite que los espíritus de los caídos descansen en estos bosques. Tengo mis preocupaciones y realmente no deseo que sean ciertas. Antes de eso, como no voy a abandonar mi puesto aquí, te pediré que traigas paz a estas almas inquietas.$B$BBNo temas, porque pueden ser asesinados, y si por casualidad se parecen a alguien que conoces, mira lejos. Está mal que estén aquí y deben regresar a la cuna del mundo del más allá.",
+    ["D"] = "Hay algo que no permite que los espíritus de los caídos descansen en estos bosques. Tengo mis preocupaciones y realmente no deseo que sean ciertas. Antes de eso, como no voy a abandonar mi puesto aquí, te pediré que traigas paz a estas almas inquietas.$B$BNo temas, porque pueden ser asesinados, y si por casualidad se parecen a alguien que conoces, mira lejos. Está mal que estén aquí y deben regresar a la cuna del mundo del más allá.",
     ["O"] = "Mata a los espíritus inquietos de la Isla del Otoño Eterno.",
     ["T"] = "Restless Autumn",
   },
@@ -6720,7 +6720,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The House of Theron",
   },
   [41248] = {
-    ["D"] = "Mientras estabas fuera, mis sospechas se han confirmado. Hay una ruina destrozada cerca donde los naga parecen estar llevando a cabo un ritual. Esto no sólo altera la paz de estas tierras, sino que también puede tener consecuencias mucho más graves.$B$BBantes de viajar a las ruinas para enfrentarte a sus líderes, debes estar preparado. Los naga son formidables enemigos submarinos y necesitarás un medio para sobrevivir bajo la superficie. Llevo pociones para respirar agua, pero su eficacia se ha visto comprometida debido al aura peculiar de esta isla.$B$BI poseo algunos conocimientos de alquimia y puedo rectificar el problema, pero necesito escamas de naga para hacerlo. Tráemelas y te proporcionaré estas pociones. Sin embargo, tenga cuidado y evite profundizar demasiado en las aguas.",
+    ["D"] = "Mientras estabas fuera, mis sospechas se han confirmado. Hay una ruina destrozada cerca donde los naga parecen estar llevando a cabo un ritual. Esto no sólo altera la paz de estas tierras, sino que también puede tener consecuencias mucho más graves.$B$Bantes de viajar a las ruinas para enfrentarte a sus líderes, debes estar preparado. Los naga son formidables enemigos submarinos y necesitarás un medio para sobrevivir bajo la superficie. Llevo pociones para respirar agua, pero su eficacia se ha visto comprometida debido al aura peculiar de esta isla.$B$BI poseo algunos conocimientos de alquimia y puedo rectificar el problema, pero necesito escamas de naga para hacerlo. Tráemelas y te proporcionaré estas pociones. Sin embargo, tenga cuidado y evite profundizar demasiado en las aguas.",
     ["O"] = "Llévale 9 escamas naga de escama de arrecife a Sira Guardiana Lunar.",
     ["T"] = "Naga All Along",
   },
@@ -6855,7 +6855,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Professor Malkovich",
   },
   [50002] = {
-    ["D"] = "Ser un no-muerto durante tanto tiempo me ha hecho olvidar algunas cosas sobre la anatomía humana. Ya que tenemos un espécimen molesto en la habitación de al lado, ¿qué tal si te deshaces de él y me traes su cabeza? De esa manera puedo estudiarlo sin que grite. No te preocupes, ya está fuera de la jaula.$B$BBPor cierto, te mostraré cómo disfrazarte de humano si me traes su cabeza en buenas condiciones.",
+    ["D"] = "Ser un no-muerto durante tanto tiempo me ha hecho olvidar algunas cosas sobre la anatomía humana. Ya que tenemos un espécimen molesto en la habitación de al lado, ¿qué tal si te deshaces de él y me traes su cabeza? De esa manera puedo estudiarlo sin que grite. No te preocupes, ya está fuera de la jaula.$B$BPor cierto, te mostraré cómo disfrazarte de humano si me traes su cabeza en buenas condiciones.",
     ["O"] = "Deshazte del campesino molesto y llévale la cabeza al profesor Malkovich.",
     ["T"] = "The Human Anatomy",
   },
@@ -6900,7 +6900,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Mirage Raceway: Goblin\'s Team",
   },
   [50312] = {
-    ["D"] = "Estoy seguro de que eres muy consciente del hecho de que nosotros, los gnomos, somos los mejores inventores. Suponiendo que se esfuerce por mejorar sus habilidades y conocimientos, eventualmente se le considerará para estudiar con nosotros. Obviamente, ningún gnomo es tan estúpido como para rechazar esta intrigante y emocionante asociación, aunque a veces puede resultar costosa.$B$BSen pocas palabras; ¡Necesitamos a alguien que complemente nuestro ingenio natural de actividad cerebral con su músculo y durabilidad!$B$BSi conduces con éxito esta impresionante obra maestra de ingeniería gnómica, cualquier otro duende tonto simplemente llamaría un auto de carreras, entonces tendrás la oportunidad de representar nuestro ¡La brillante sociedad de inventores avanza aún más en Mirage Races!$B$BGenial, ¿verdad?$B$BBueno, aquí están las instrucciones que hemos diseñado específicamente para otras razas para una mejor comprensión y comprensión.$B$BYSí, es posible que puedas Quiero hablar con nuestra encantadora Dolores para registrarse en la carrera de prueba, $N.$B$B¡Buena suerte, sensible!",
+    ["D"] = "Estoy seguro de que eres muy consciente del hecho de que nosotros, los gnomos, somos los mejores inventores. Suponiendo que se esfuerce por mejorar sus habilidades y conocimientos, eventualmente se le considerará para estudiar con nosotros. Obviamente, ningún gnomo es tan estúpido como para rechazar esta intrigante y emocionante asociación, aunque a veces puede resultar costosa.$B$BSen pocas palabras; ¡Necesitamos a alguien que complemente nuestro ingenio natural de actividad cerebral con su músculo y durabilidad!$B$BSi conduces con éxito esta impresionante obra maestra de ingeniería gnómica, cualquier otro duende tonto simplemente llamaría un auto de carreras, entonces tendrás la oportunidad de representar nuestro ¡La brillante sociedad de inventores avanza aún más en Mirage Races!$B$BGenial, ¿verdad?$B$Bueno, aquí están las instrucciones que hemos diseñado específicamente para otras razas para una mejor comprensión y comprensión.$B$BYSí, es posible que puedas Quiero hablar con nuestra encantadora Dolores para registrarse en la carrera de prueba, $N.$B$B¡Buena suerte, sensible!",
     ["O"] = "Encuentra a Dolores y monta un auto de carreras gnomo para ver si sobrevive a la salida.",
     ["T"] = "Gnomes Are Genuine Inventors",
   },
@@ -6920,7 +6920,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Race Against Time!",
   },
   [50318] = {
-    ["D"] = "Si bien es genial que todos nos reunamos aquí alrededor de un pino finamente decorado, se avecinan serios problemas para todas las criaturas salvajes que existen. Como sabes, todo el ecosistema en el que vivimos podría corromperse fácilmente si algunas especies quedaran fuera de escena para hacer su parte del trabajo que todos intentan mantener.$B$BI\Estoy hablando de pieles lunares. Si todavía no estás informado, es fundamental que los guardemos. Que quieres decir con como\"?!? Los jóvenes lunares morirán congelados este invierno si no hacemos algo... ¡Lo sé!$B$BBTráeles nuestro ponche de huevo festivo para calentarlos. Los abrazos también servirán, ¡pero primero tráeles ponche de huevo! ¿Dónde lo consigues? Bueno, estoy seguro de que hay una receta que teníamos en algún lugar cercano...",
+    ["D"] = "Si bien es genial que todos nos reunamos aquí alrededor de un pino finamente decorado, se avecinan serios problemas para todas las criaturas salvajes que existen. Como sabes, todo el ecosistema en el que vivimos podría corromperse fácilmente si algunas especies quedaran fuera de escena para hacer su parte del trabajo que todos intentan mantener.$B$BI\Estoy hablando de pieles lunares. Si todavía no estás informado, es fundamental que los guardemos. Que quieres decir con como\"?!? Los jóvenes lunares morirán congelados este invierno si no hacemos algo... ¡Lo sé!$B$BTráeles nuestro ponche de huevo festivo para calentarlos. Los abrazos también servirán, ¡pero primero tráeles ponche de huevo! ¿Dónde lo consigues? Bueno, estoy seguro de que hay una receta que teníamos en algún lugar cercano...",
     ["O"] = "Lleva el ponche de huevo festivo a 15 moonkins para calentarlos.",
     ["T"] = "Bracing The Inevitable",
   },
@@ -6955,7 +6955,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Grizzlore Wants Thunder",
   },
   [50328] = {
-    ["D"] = "¡Hola, mejillas muy dulces! ¿No te gustaría divertirte de verdad con la alegre Holly aquí mismo, querida? <risas>$B$BOPor supuesto que lo harías, puedo verlo en tus ojos allí mismo. Pero... sabes que está a punto de llegar una diversión íntima suprema, ¿no? ¡Buenas cervezas y bebidas dulces!$B$BB¡La mejor manera de divertirte alegremente con Holly!$B$BAhora, bebe y hazme... ¡un buen baile largo y dulce, mi pequeña mermelada! ¡Ja ja!",
+    ["D"] = "¡Hola, mejillas muy dulces! ¿No te gustaría divertirte de verdad con la alegre Holly aquí mismo, querida? <risas>$B$BOPor supuesto que lo harías, puedo verlo en tus ojos allí mismo. Pero... sabes que está a punto de llegar una diversión íntima suprema, ¿no? ¡Buenas cervezas y bebidas dulces!$B$B¡La mejor manera de divertirte alegremente con Holly!$B$BAhora, bebe y hazme... ¡un buen baile largo y dulce, mi pequeña mermelada! ¡Ja ja!",
     ["O"] = "Fóllate con Holly y luego baila con ella.",
     ["T"] = "Jolly Holly Dances Prolly",
   },
@@ -7055,7 +7055,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Eldarath Project",
   },
   [55016] = {
-    ["D"] = "Azshara parece desesperada, pero a pesar de todo lo que ha fallado y de todo lo que he probado aquí, todavía me quedan algunas cosas más por probar.$B$BDentro de la región hay una especie de hipogrifo conocida como Thunderheads. Se pueden encontrar por toda el área, ¡pero estoy buscando los que tienen el poder real para obtener los mejores resultados!$B$BLejos al noreste, cerca de los bordes de la meseta de Azshara, se encuentran los Thunderhead Skystormers. Ahora son realmente los capos de los Thunderheads. Tráeme 3 Skystormer Antlers, ahí es donde deben mantener su poder.$B$BBTráemelos para que podamos probar si tienen alguna capacidad de energía.",
+    ["D"] = "Azshara parece desesperada, pero a pesar de todo lo que ha fallado y de todo lo que he probado aquí, todavía me quedan algunas cosas más por probar.$B$BDentro de la región hay una especie de hipogrifo conocida como Thunderheads. Se pueden encontrar por toda el área, ¡pero estoy buscando los que tienen el poder real para obtener los mejores resultados!$B$BLejos al noreste, cerca de los bordes de la meseta de Azshara, se encuentran los Thunderhead Skystormers. Ahora son realmente los capos de los Thunderheads. Tráeme 3 Skystormer Antlers, ahí es donde deben mantener su poder.$B$BTráemelos para que podamos probar si tienen alguna capacidad de energía.",
     ["O"] = "Mata a los Thunderhead Skystormers para Skystormer Antlers, muy al noreste de Azshara.",
     ["T"] = "The Skystormer Project",
   },
@@ -7170,7 +7170,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Wisdom of the Sages",
   },
   [55042] = {
-    ["D"] = "Mucho antes de llegar a este lugar, yo era un miembro bastante valioso de Venture Co.$B$BSin embargo, eso fue hace mucho tiempo, y soy diferente de mí, pero si algo se quedó, es el estúpido apodo que obtuve. $B$BCuando yo era uno de los ingenieros, me encargaron hacer un diseño para una mega trituradora para deforestar Stonetalon.$B$BResulta que otro diseño era mejor que el mío, y bastante. No tengo ningún problema con eso, pero lo que sí tengo es que me hayan despedido del capataz Klix por \"decepcionarlo\".$B$BMe llamó \"hack\", y ahora el apodo se ha quedado estancado. Bastardo tiene lo que se merece. Lo encontrarás en el risco Windshear donde solía trabajar en el antiguo aserradero. Es un viejo idiota y dudo que haya seguido adelante. $B$BBTráeme su anillo, es una cosa de gran tamaño con tachuelas que lleva sobre su dedo medio.",
+    ["D"] = "Mucho antes de llegar a este lugar, yo era un miembro bastante valioso de Venture Co.$B$BSin embargo, eso fue hace mucho tiempo, y soy diferente de mí, pero si algo se quedó, es el estúpido apodo que obtuve. $B$BCuando yo era uno de los ingenieros, me encargaron hacer un diseño para una mega trituradora para deforestar Stonetalon.$B$BResulta que otro diseño era mejor que el mío, y bastante. No tengo ningún problema con eso, pero lo que sí tengo es que me hayan despedido del capataz Klix por \"decepcionarlo\".$B$BMe llamó \"hack\", y ahora el apodo se ha quedado estancado. Bastardo tiene lo que se merece. Lo encontrarás en el risco Windshear donde solía trabajar en el antiguo aserradero. Es un viejo idiota y dudo que haya seguido adelante. $B$BTráeme su anillo, es una cosa de gran tamaño con tachuelas que lleva sobre su dedo medio.",
     ["O"] = "Mata al capataz Klix y llévale su anillo tachonado a Shak.",
     ["T"] = "Satisfaction for Shak",
   },
@@ -7220,7 +7220,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Return to Port!",
   },
   [55100] = {
-    ["D"] = "La liga de Explorer siempre está buscando nuevos miembros. ¿Estás buscando ver mundo y viajar por los mares de Azeroth en busca de artefactos olvidados y tesoros enterrados? $B$BBueno, entonces deberías buscar a mi amigo Merrin Rockweaver, uno de los muchos excavadores y exploradores de la liga que están descubriendo ¡Artefactos y huesos antiguos!$B$BDirígete hacia el este desde aquí y encuentra el sitio de excavación de Whelgar. Debería estar escondido contra las montañas del sur, ¡así que mantén los ojos bien abiertos, explorador!",
+    ["D"] = "La liga de Explorer siempre está buscando nuevos miembros. ¿Estás buscando ver mundo y viajar por los mares de Azeroth en busca de artefactos olvidados y tesoros enterrados? $B$Bueno, entonces deberías buscar a mi amigo Merrin Rockweaver, uno de los muchos excavadores y exploradores de la liga que están descubriendo ¡Artefactos y huesos antiguos!$B$BDirígete hacia el este desde aquí y encuentra el sitio de excavación de Whelgar. Debería estar escondido contra las montañas del sur, ¡así que mantén los ojos bien abiertos, explorador!",
     ["O"] = "¡Preséntate ante Merrin Rockweaver para convertirte en un gran explorador!",
     ["T"] = "Join The League!",
   },
@@ -7420,7 +7420,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Lucky Coin",
   },
   [60060] = {
-    ["D"] = "La supervivencia en sí no es tan difícil si sabes qué hacer. Es más difícil sobrevivir cuando no tienes comida. ¿Caza? Sí, podrías intentarlo, por desgracia, no siempre tienes algo que te sostenga por más tiempo que solo algunas hierbas primitivas antes de atrapar algo.$B$BI Veo que estás reflexionando sobre la situación un poco más que tus cazadores y tramperos normales. Entonces, ¿por qué no aprendes algo por tu propio bien y para tener mejores posibilidades de sobrevivir en la naturaleza?$B$BBTráeme lo que necesito y te enseñaré qué hacer. Aquí está la lista. Por favor no lo pierdas.",
+    ["D"] = "La supervivencia en sí no es tan difícil si sabes qué hacer. Es más difícil sobrevivir cuando no tienes comida. ¿Caza? Sí, podrías intentarlo, por desgracia, no siempre tienes algo que te sostenga por más tiempo que solo algunas hierbas primitivas antes de atrapar algo.$B$BI Veo que estás reflexionando sobre la situación un poco más que tus cazadores y tramperos normales. Entonces, ¿por qué no aprendes algo por tu propio bien y para tener mejores posibilidades de sobrevivir en la naturaleza?$B$BTráeme lo que necesito y te enseñaré qué hacer. Aquí está la lista. Por favor no lo pierdas.",
     ["O"] = "¡Encuentre muestras de semillas de calabaza campestre, semillas de bayas de montaña, semillas de melón rayado y setas mágicas!",
     ["T"] = "You Reap What You Sow",
   },
@@ -7625,7 +7625,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Stalking the Felstalkers",
   },
   [60148] = {
-    ["D"] = "Seguimos matando arañas pero al día siguiente descubrimos que el número no ha cambiado. Creo que algo anda mal.$B$BBaja al hueco e investiga. Vuelve sano y salvo y sé recompensado.$B$BSospechamos que tienen una madre de cría.",
+    ["D"] = "Seguimos matando arañas pero al día siguiente descubrimos que el número no ha cambiado. Creo que algo anda mal.$B$Baja al hueco e investiga. Vuelve sano y salvo y sé recompensado.$B$BSospechamos que tienen una madre de cría.",
     ["O"] = "El ejecutor Arren quiere que investigues Night Web Hollow y mates a su madre de cría.",
     ["T"] = "Mother of the Hollow",
   },
@@ -7670,7 +7670,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Taming the Beast",
   },
   [60163] = {
-    ["D"] = "Desafortunadamente, aquí es donde termina mi conocimiento, entrenar a estas bestias no es realmente mi fuerte. Sin embargo, sé quién puede enseñarte estas cosas. Ormak Grimshot en el Valle del Honor de Orgrimmar está mucho más calificado para eso. Puedes tomar un transporte desde el Taller de Gazzik hasta el puerto de Sparkwater, desde allí es solo una pequeña caminata hasta la capital. He oído que pasa la mayor parte de su tiempo cerca del Salón de los Valientes.$B$BB¡Mucha suerte para ti, amigo mío! Te extrañaré mucho a ti y a tus gloriosos BOOMS.",
+    ["D"] = "Desafortunadamente, aquí es donde termina mi conocimiento, entrenar a estas bestias no es realmente mi fuerte. Sin embargo, sé quién puede enseñarte estas cosas. Ormak Grimshot en el Valle del Honor de Orgrimmar está mucho más calificado para eso. Puedes tomar un transporte desde el Taller de Gazzik hasta el puerto de Sparkwater, desde allí es solo una pequeña caminata hasta la capital. He oído que pasa la mayor parte de su tiempo cerca del Salón de los Valientes.$B$B¡Mucha suerte para ti, amigo mío! Te extrañaré mucho a ti y a tus gloriosos BOOMS.",
     ["O"] = "Habla con Ormak Grimshot en Orgrimmar.",
     ["T"] = "Training the Beast",
   },
@@ -7790,7 +7790,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ms. Fix-it!",
   },
   [70051] = {
-    ["D"] = "Psst, amigo. Ven aquí un segundo, ¿quieres? $B$BHola, ¿cómo te va hoy? Tengo información lucrativa para compartir contigo, así que escucha. Verás, están estos barcos hundidos, viejos barcos de la Alianza a los que supuestamente todavía les queda combustible y ya sabes, el combustible es un bien valioso para nosotros, los goblins. ¡Están ahí sentados frente a la costa esperándote!$B$BBTráeme todo lo que puedas rescatar de los naufragios y me aseguraré de que valga la pena.",
+    ["D"] = "Psst, amigo. Ven aquí un segundo, ¿quieres? $B$BHola, ¿cómo te va hoy? Tengo información lucrativa para compartir contigo, así que escucha. Verás, están estos barcos hundidos, viejos barcos de la Alianza a los que supuestamente todavía les queda combustible y ya sabes, el combustible es un bien valioso para nosotros, los goblins. ¡Están ahí sentados frente a la costa esperándote!$B$BTráeme todo lo que puedas rescatar de los naufragios y me aseguraré de que valga la pena.",
     ["O"] = "Llévale 5 barriles de petróleo a Pezzik Villamar en Razor Hill.",
     ["T"] = "Oil-Stained Gold",
   },
@@ -7915,7 +7915,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Garbage Man",
   },
   [80121] = {
-    ["D"] = "Puede que Nert tenga miedo de un poco de magia de las sombras, pero tú y yo sabemos lo que estamos haciendo, ¿no? $B$B¡Es hora de que aprendas a invocar a tu primer demonio! Sí, sé que estamos en medio de una crisis, pero ¿qué mejor momento para contar con la ayuda de un demonio?$B$BAdemás, somos brujos. ¡Las crisis son de lo que se trata! Eso y estoy obligado por contrato a armarte para \"hacer cumplir\".$B$BMientras estás en la tarea de Nert, quiero que busques algo que irradie oscuridad. Esa energía se condensa en estos cristales violetas, ¿ves? Intenta pellizcar uno de esos sin que te maten.$B$BBTráeme uno de esos cristales y te enseñaré cómo convocar a un diablillo. Comercio justo, ¿sí?",
+    ["D"] = "Puede que Nert tenga miedo de un poco de magia de las sombras, pero tú y yo sabemos lo que estamos haciendo, ¿no? $B$B¡Es hora de que aprendas a invocar a tu primer demonio! Sí, sé que estamos en medio de una crisis, pero ¿qué mejor momento para contar con la ayuda de un demonio?$B$BAdemás, somos brujos. ¡Las crisis son de lo que se trata! Eso y estoy obligado por contrato a armarte para \"hacer cumplir\".$B$BMientras estás en la tarea de Nert, quiero que busques algo que irradie oscuridad. Esa energía se condensa en estos cristales violetas, ¿ves? Intenta pellizcar uno de esos sin que te maten.$B$BTráeme uno de esos cristales y te enseñaré cómo convocar a un diablillo. Comercio justo, ¿sí?",
     ["O"] = "Recoge un cristal aullante de una de las criaturas de Grumbling Grove.",
     ["T"] = "This Is In My Contract",
   },
@@ -8010,7 +8010,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A New Place in Stormwind",
   },
   [80250] = {
-    ["D"] = "¡Bal\'a dash, malanore, $R! Represento a un grupo de mi gente que busca restaurar nuestra antigua gloria.$B$BBuscamos establecer un nuevo hogar para nosotros y tu ayuda será más que bienvenida.$B$BCuando tengas tiempo, viaja a Ventormenta y habla. a Caledra Dawnbreeze en Stormwind Keep.$B$B¡Confía en que recibirás una buena compensación por tu ayuda!",
+    ["D"] = "¡Bal\'a dash, malanore, $R! Represento a un grupo de mi gente que busca restaurar nuestra antigua gloria.$B$Buscamos establecer un nuevo hogar para nosotros y tu ayuda será más que bienvenida.$B$BCuando tengas tiempo, viaja a Ventormenta y habla. a Caledra Dawnbreeze en Stormwind Keep.$B$B¡Confía en que recibirás una buena compensación por tu ayuda!",
     ["O"] = "Habla con Caledra Dawnbreeze en el Castillo de Ventormenta.",
     ["T"] = "Assisting the Children of the Sun",
   },
@@ -8120,17 +8120,17 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Means To Heal",
   },
   [80305] = {
-    ["D"] = "Oye chico, ¿te estás divirtiendo? $B$BNah, realmente no lo estás. Puedo verlo en tu cara. Este lugar está bastante deteriorado y aburrido, sin nada que hacer, ¿eh? $B$BBueno, si estás buscando algo de acción, con monedas, claro, ¡entonces tengo algo para ti! Pero ya sabes, la información no es barata, ¿verdad? $B$B¿Qué tal una moneda de plata para soltarme la lengua?$B$B<El duende espera con la mano abierta mientras te sonríe.>$ B$BBueno, ahora que somos amigos, supongo que puedo contarte esta cosita. Algo que he oído por la ciudad. Mira, hay un bar que acaba de abrir en Valley of Honor. Bastante irónico, ¿no crees?$B$BI escuchó que un duende llamado Quark abrió una tienda, pero se supone que es una empresa solo para miembros.$B$BI no me molestaría en ir allí yo mismo , ¡pero he oído que se puede ganar mucho dinero!$B$BAhora, serán cincuenta cobres por la información. Que tengas un buen día, amigo.",
+    ["D"] = "Oye chico, ¿te estás divirtiendo? $B$BNah, realmente no lo estás. Puedo verlo en tu cara. Este lugar está bastante deteriorado y aburrido, sin nada que hacer, ¿eh? $B$Bueno, si estás buscando algo de acción, con monedas, claro, ¡entonces tengo algo para ti! Pero ya sabes, la información no es barata, ¿verdad? $B$B¿Qué tal una moneda de plata para soltarme la lengua?$B$B<El duende espera con la mano abierta mientras te sonríe.>$ B$Bueno, ahora que somos amigos, supongo que puedo contarte esta cosita. Algo que he oído por la ciudad. Mira, hay un bar que acaba de abrir en Valley of Honor. Bastante irónico, ¿no crees?$B$BI escuchó que un duende llamado Quark abrió una tienda, pero se supone que es una empresa solo para miembros.$B$BI no me molestaría en ir allí yo mismo , ¡pero he oído que se puede ganar mucho dinero!$B$BAhora, serán cincuenta cobres por la información. Que tengas un buen día, amigo.",
     ["O"] = "Ve al Valle del Honor y busca la Cabaña de Quark.",
     ["T"] = "Quark\'s Shack",
   },
   [80306] = {
-    ["D"] = "¡Hola amigo, míralo! $B$BOh, ¿qué es esto? Un cliente adecuado, ¿eh? $B$BBienvenido a Quark\'s Shack. ¿Estás aquí por negocios o por placer?$B$BVerás, esta es una barra mía hecha para conocedores de monedas, así que si estás aquí, entonces es hora de tomar algunas monedas rápidas y también divertirte. Ya estás en ello.$B$BSi quieres apostar, habla con Agne. Ella maneja los huesos. ¿Nunca antes tiraste los dados? No, no hay necesidad de preocuparse por tus monedas, amigo. ¡Recuperarás tus pérdidas en poco tiempo! Ahora, si necesitas algo para abrir los ojos y adormecer tus pensamientos, vuelve a verme.",
+    ["D"] = "¡Hola amigo, míralo! $B$BOh, ¿qué es esto? Un cliente adecuado, ¿eh? $B$Bienvenido a Quark\'s Shack. ¿Estás aquí por negocios o por placer?$B$BVerás, esta es una barra mía hecha para conocedores de monedas, así que si estás aquí, entonces es hora de tomar algunas monedas rápidas y también divertirte. Ya estás en ello.$B$BSi quieres apostar, habla con Agne. Ella maneja los huesos. ¿Nunca antes tiraste los dados? No, no hay necesidad de preocuparse por tus monedas, amigo. ¡Recuperarás tus pérdidas en poco tiempo! Ahora, si necesitas algo para abrir los ojos y adormecer tus pensamientos, vuelve a verme.",
     ["O"] = "Habla con Agne para tirar los dados.",
     ["T"] = "What\'s Yours is Ours",
   },
   [80307] = {
-    ["D"] = "¿Te estás divirtiendo, jefe?$B$BBien, bien. Verá, esa fue una prueba gratuita. Realmente no me importa si ganaste o no, pero dije \'conocedores de monedas\', así que realmente tienes que pagar una cuota de membresía.$B$BHey, oye, ¿adónde vas hombre? Vamos, no seas así. Quizás esté dispuesto a darte una tarjeta de membresía si me pagas con algunos favores.$B$BMira, pedí algunos productos nuevos a Undermine para nuestras pipas de agua. Esta carga es muy importante y valiosa. También arrojaré algunas monedas, que puedes seguir gastando en mi bar, si vas a buscar mis bienes. Ahora, la carga debería llegar a Ratchet hoy mismo, así que si pudieras seguir adelante, te lo agradecería mucho.",
+    ["D"] = "¿Te estás divirtiendo, jefe?$B$Bien, bien. Verá, esa fue una prueba gratuita. Realmente no me importa si ganaste o no, pero dije \'conocedores de monedas\', así que realmente tienes que pagar una cuota de membresía.$B$BHey, oye, ¿adónde vas hombre? Vamos, no seas así. Quizás esté dispuesto a darte una tarjeta de membresía si me pagas con algunos favores.$B$BMira, pedí algunos productos nuevos a Undermine para nuestras pipas de agua. Esta carga es muy importante y valiosa. También arrojaré algunas monedas, que puedes seguir gastando en mi bar, si vas a buscar mis bienes. Ahora, la carga debería llegar a Ratchet hoy mismo, así que si pudieras seguir adelante, te lo agradecería mucho.",
     ["O"] = "Habla con el posadero Wiley sobre el cargamento de Quark.",
     ["T"] = "Yet Another Smoke Cloud Above Orgrimmar",
   },
@@ -8185,7 +8185,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "The Lies that Bind Us",
   },
   [80322] = {
-    ["D"] = "¡Ja! Ningún peletero hizo estas marcas.$B$BEsto es magia vil. Hay un paria ubicado en Los Baldíos. Es un herrero de nuestro mundo. Tiene un don cuando se trata de magia vil; él puede sentir el origen.$B$BNecesitarás un pago si lo buscas, y necesitarás suerte de tu lado.$B$BA algunos de nosotros no nos gusta revivir nuestro pasado. La mancha que había en nuestra sangre todavía lo persigue, como lo hace con muchos de nosotros. Déjame en paz ahora.$B$BBusca a Vrang al oeste de la carretera a lo largo de las estribaciones del norte de Los Baldíos.",
+    ["D"] = "¡Ja! Ningún peletero hizo estas marcas.$B$BEsto es magia vil. Hay un paria ubicado en Los Baldíos. Es un herrero de nuestro mundo. Tiene un don cuando se trata de magia vil; él puede sentir el origen.$B$BNecesitarás un pago si lo buscas, y necesitarás suerte de tu lado.$B$BA algunos de nosotros no nos gusta revivir nuestro pasado. La mancha que había en nuestra sangre todavía lo persigue, como lo hace con muchos de nosotros. Déjame en paz ahora.$B$Busca a Vrang al oeste de la carretera a lo largo de las estribaciones del norte de Los Baldíos.",
     ["O"] = "Lleva el cinturón de Knobby y 20 monedas de plata a Vrang Wildgore en Los Baldíos.",
     ["T"] = "The Lies That Bind Us",
   },
@@ -8300,7 +8300,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Pinch of Salt",
   },
   [80388] = {
-    ["D"] = "Mmm, ¿otro más? Muy bien.$B$BBuscas demostrar tu valía ante tu gente, ¿no? Para elevarse por encima de todos los demás como el más fuerte, ¿no? Para dejar atrás un legado de coraje y heroísmo, en lugar de desaparecer de la historia como un vagabundo más sin importancia, ¿no? $B$BI tengo tu atención, ¿verdad? Entonces tengo la oferta para ti. Te concederé la oportunidad de convertirte en Inmortal, si prevaleces sobre la muerte en tu viaje hacia la gloria.$B$BSin embargo... Si mueres, no regresarás. Tu alma será separada para siempre de tu cuerpo.$B$BEsta oferta te la extiendo sólo aquí y ahora. No habrá una segunda oportunidad si rechazas mi trato.",
+    ["D"] = "Mmm, ¿otro más? Muy bien.$B$Buscas demostrar tu valía ante tu gente, ¿no? Para elevarse por encima de todos los demás como el más fuerte, ¿no? Para dejar atrás un legado de coraje y heroísmo, en lugar de desaparecer de la historia como un vagabundo más sin importancia, ¿no? $B$BI tengo tu atención, ¿verdad? Entonces tengo la oferta para ti. Te concederé la oportunidad de convertirte en Inmortal, si prevaleces sobre la muerte en tu viaje hacia la gloria.$B$BSin embargo... Si mueres, no regresarás. Tu alma será separada para siempre de tu cuerpo.$B$BEsta oferta te la extiendo sólo aquí y ahora. No habrá una segunda oportunidad si rechazas mi trato.",
     ["O"] = "Completa esta misión para convertirte en mortal. En este modo sólo tienes una vida y sólo puedes intercambiar y agruparte con otros jugadores mortales. Si mueres, no volverás más. El servicio de atención al cliente no revivirá a un héroe caído por ningún motivo.",
     ["T"] = "Stay Awhile and Listen...",
   },
@@ -8310,7 +8310,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Letter to Mudsprocket",
   },
   [80391] = {
-    ["D"] = "¡Saludos! Su empresa es bienvenida. Soy Inunquaq del puerto de Moa\'ki. Me encuentro en esta tierra extraña después de semanas de navegación.$B$BMi historia comenzó cuando una amiga mía de los Tauren de Invierno conocida como Buniq visitó mi asentamiento en su canoa y me invitó a acompañarla al pueblo de Taunka\'le. Pero cuando entré en la canoa, una fuerte ráfaga de hielo arrancó la cuerda de las manos de Buniq. ¡En unos instantes una fuerte corriente me había llevado al mar abierto!$B$BBuniq tenía los remos, así que todo lo que podía hacer era aferrarme desesperadamente a la canoa y esperar lo mejor.$B$BFinalmente, la corriente me llevó aquí a esto. tierra cálida que no se parece en nada a mi hogar. Escucha amigo, la canoa tenía algunas provisiones pero las terminé hace días. ¿Podrías por favor recolectar algo de carne de estas criaturas con caparazón cercanas? $B$BTenemos criaturas similares en el extremo norte, pero no tengo las herramientas ni el conocimiento que necesito para intentar acercarme a ellas, por lo que puedo suponer, son comestibles. . Si lo haces, estaré para siempre en deuda contigo.",
+    ["D"] = "¡Saludos! Su empresa es bienvenida. Soy Inunquaq del puerto de Moa\'ki. Me encuentro en esta tierra extraña después de semanas de navegación.$B$BMi historia comenzó cuando una amiga mía de los Tauren de Invierno conocida como Buniq visitó mi asentamiento en su canoa y me invitó a acompañarla al pueblo de Taunka\'le. Pero cuando entré en la canoa, una fuerte ráfaga de hielo arrancó la cuerda de las manos de Buniq. ¡En unos instantes una fuerte corriente me había llevado al mar abierto!$B$Buniq tenía los remos, así que todo lo que podía hacer era aferrarme desesperadamente a la canoa y esperar lo mejor.$B$BFinalmente, la corriente me llevó aquí a esto. tierra cálida que no se parece en nada a mi hogar. Escucha amigo, la canoa tenía algunas provisiones pero las terminé hace días. ¿Podrías por favor recolectar algo de carne de estas criaturas con caparazón cercanas? $B$BTenemos criaturas similares en el extremo norte, pero no tengo las herramientas ni el conocimiento que necesito para intentar acercarme a ellas, por lo que puedo suponer, son comestibles. . Si lo haces, estaré para siempre en deuda contigo.",
     ["O"] = "Recoge 8 manojos de carne de rastreador.",
     ["T"] = "Crawling for Meat",
   },
@@ -8350,7 +8350,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Zalazane\'s Apprentice",
   },
   [80400] = {
-    ["D"] = "<El enano parece nervioso mientras murmura en voz baja.>$B$BBHazlos pedazos a todos los cabrones...$B$BOh, hola. Momento perfecto, amigo mío. ¡Vaya, seguro que me encantaría que me ayudaras! $B$BS Entonces, escucha, terminé mi libro recientemente y estaba a punto de conseguir algunos componentes que necesitaba para mi nuevo invento. Dejé mi campamento por un breve período y ¿qué sabes? ¡Malditos troggs vinieron y se divirtieron con mis cosas!$B$BAPor desgracia, mi libro se hizo pedazos y, a juzgar por lo que quedó de él, las 25 páginas de patrones y esquemas perfectamente dibujados se perdieron.$B $BLo único que me importa ahora es que me devuelvan las páginas del libro y que esos mauchit troggs sufran en el proceso. Son tontos, igual que los kobolds, pero al igual que los kobolds, tienden a correr en manadas, ¡así que ten cuidado cuando los encuentres!",
+    ["D"] = "<El enano parece nervioso mientras murmura en voz baja.>$B$BHazlos pedazos a todos los cabrones...$B$BOh, hola. Momento perfecto, amigo mío. ¡Vaya, seguro que me encantaría que me ayudaras! $B$BS Entonces, escucha, terminé mi libro recientemente y estaba a punto de conseguir algunos componentes que necesitaba para mi nuevo invento. Dejé mi campamento por un breve período y ¿qué sabes? ¡Malditos troggs vinieron y se divirtieron con mis cosas!$B$BAPor desgracia, mi libro se hizo pedazos y, a juzgar por lo que quedó de él, las 25 páginas de patrones y esquemas perfectamente dibujados se perdieron.$B $BLo único que me importa ahora es que me devuelvan las páginas del libro y que esos mauchit troggs sufran en el proceso. Son tontos, igual que los kobolds, pero al igual que los kobolds, tienden a correr en manadas, ¡así que ten cuidado cuando los encuentres!",
     ["O"] = "Encuentra 10 escritos enanos y devuélvelos al prospector Brotalus en Badlands.",
     ["T"] = "Re-assembler!",
   },
@@ -8430,7 +8430,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Young and Foolish",
   },
   [80703] = {
-    ["D"] = "Sí, pero eso es todo lo que sé, ahora no digo que merezca ningún tipo de compensación por la información, pero será muy apreciada. $B$B<Kixxle abre la palma de su mano pero te niegas a pagar.> $B$BBien entonces, continúa y sigue el camino hacia ese puente, Thandol Span o lo que sea, ¡espero que esos Scarlets te atrapen por ser tan idiota!",
+    ["D"] = "Sí, pero eso es todo lo que sé, ahora no digo que merezca ningún tipo de compensación por la información, pero será muy apreciada. $B$B<Kixxle abre la palma de su mano pero te niegas a pagar.> $B$Bien entonces, continúa y sigue el camino hacia ese puente, Thandol Span o lo que sea, ¡espero que esos Scarlets te atrapen por ser tan idiota!",
     ["O"] = "Lleva a Vladeus Springriver de regreso al puerto de Menethil e informa al Capitán Stoutfist.",
     ["T"] = "Thandol Span",
   },
@@ -8470,7 +8470,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "It’s All in Their Brains",
   },
   [80711] = {
-    ["D"] = "Tu próxima tarea es simplemente recolectar algunas cosas aquí y allá, nada especial.$B$BLas encontrarás mientras luchas contra Elementales y plantas en algunas de las zonas realmente peligrosas del mundo, pero estoy más que seguro de que tendrás éxito si realmente eres elegido por la Luz.$B$BBtráeme Frondas Salvajes y Núcleo de los Elementos, cincuenta de cada uno, será de gran ayuda en lo que deseamos lograr.$B$BCuando regreses y si regresas serás oficialmente un miembro y yo te daremos un mapa de dónde encontrar la entrada al lugar de entrenamiento secreto.$B$BQue la Luz bendiga tu pobre alma. Si regresas te abrazaremos como a un hermano, si no lo haces no lloraremos por ti ni un segundo.",
+    ["D"] = "Tu próxima tarea es simplemente recolectar algunas cosas aquí y allá, nada especial.$B$BLas encontrarás mientras luchas contra Elementales y plantas en algunas de las zonas realmente peligrosas del mundo, pero estoy más que seguro de que tendrás éxito si realmente eres elegido por la Luz.$B$Btráeme Frondas Salvajes y Núcleo de los Elementos, cincuenta de cada uno, será de gran ayuda en lo que deseamos lograr.$B$BCuando regreses y si regresas serás oficialmente un miembro y yo te daremos un mapa de dónde encontrar la entrada al lugar de entrenamiento secreto.$B$BQue la Luz bendiga tu pobre alma. Si regresas te abrazaremos como a un hermano, si no lo haces no lloraremos por ti ni un segundo.",
     ["O"] = "Viaja por el mundo y trae los suministros que te pidieron.",
     ["T"] = "Supplies We Need",
   },
@@ -8540,7 +8540,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "A Rare Request",
   },
   [80738] = {
-    ["D"] = "Los trolls Gurubashi tienen una receta única de gumbo que puede aumentar la fuerza de voluntad de quienes lo consumen. A menudo lo comen sus guerreros más feroces antes del combate.$B$BI he obtenido una receta de este tipo y estoy dispuesto a intercambiarla con aquellos que demuestren su valía en la arena.$B$BBTráeme Tokens of Blood y tú también podrás aprender esta receta. .",
+    ["D"] = "Los trolls Gurubashi tienen una receta única de gumbo que puede aumentar la fuerza de voluntad de quienes lo consumen. A menudo lo comen sus guerreros más feroces antes del combate.$B$BI he obtenido una receta de este tipo y estoy dispuesto a intercambiarla con aquellos que demuestren su valía en la arena.$B$BTráeme Tokens of Blood y tú también podrás aprender esta receta. .",
     ["O"] = "Llévale 25 fichas de sangre a Bradley Steel en la Arena Gurubashi en Vega de Tuercespina.",
     ["T"] = "Recipe: Gurubashi Gumbo",
   },
