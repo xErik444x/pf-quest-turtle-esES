@@ -4,11 +4,10 @@ This is a fork addon from [pfQuest-turtle](https://github.com/shagu/pfQuest-turt
 ## Install
 *The latest version of [pfQuest](https://shagu.org/pfQuest) is required for this module to work.*
 
-1. Download
-1. Download the zip
-2. Unpack the Zip file
-3. Rename the folder "BreadcrumbspfQuest-turtle-esES-master" to "pfQuest-turtle"
-4. Copy "pfQuest-turtle" into Wow-Directory\Interface\AddOns
+1. Descargar el zip
+2. Descomprimir la carpeta
+3. Cambiar el nombre de "pfQuest-turtle-esES-master" a "pfQuest-turtle"
+4. Copiar "pfQuest-turtle" a Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 # TUTORIAL:
