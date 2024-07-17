@@ -6889,8 +6889,8 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Venture Co. Expansion",
   },
   [41214] = {
-    ["D"] = "Estas tierras son un eco de la belleza de Quel\'Thalas, pero dentro de las similitudes hay una divergencia intrigante. Actualmente, me encuentro absorto en el estudio de los treants que adornan este reino. Aunque me resultan familiares, hay una cualidad peculiar en ellos que se me escapa.$B$BI Si, por casualidad, pudiera conseguir un corazón primitivo de uno de estos seres, impulsaría mi investigación de forma significativa. No soy particularmente hábil en combate, y los guardias han frustrado mis intentos de acercarme demasiado. Sin embargo, creo que no supondrán el mismo obstáculo para ti. ¿Qué me dices?",
-    ["O"] = "Adquiere un Corazón Primigenio Thalasiano de los Treants Thalasianos para Calhir Dawnchaser en el Parque Anasteriano",
+    ["D"] = "These lands echo the beauty of Quel\'Thalas, yet within the similarities lies an intriguing divergence. Presently, I find myself engrossed in the study of the treants that grace this realm. Though they possess a semblance of familiarity, there\'s a peculiar quality about them that eludes my understanding.$B$BIf, by any chance, you could procure a primal heart from one of these beings, it would significantly propel my research. I\'m not particularly skilled in combat, and the guards have thwarted my attempts to get too close. However, I believe they won\'t pose the same hindrance to you. What say you?",
+    ["O"] = "Acquire a Thalasian Primal Heart from Thalassian Treants for Calhir Dawnchaser in Anasterian Park.",
     ["T"] = "Peculiar Treants",
   },
   [41215] = {
